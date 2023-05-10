@@ -1,0 +1,2566 @@
+﻿county,station,month,year,AvgTemperature
+Cambridgeshire,cambridge,1,1971,7.1
+Cambridgeshire,cambridge,2,1971,7.9
+Cambridgeshire,cambridge,3,1971,8.4
+Cambridgeshire,cambridge,4,1971,11.5
+Cambridgeshire,cambridge,5,1971,17.2
+Cambridgeshire,cambridge,6,1971,16.9
+Cambridgeshire,cambridge,7,1971,22.5
+Cambridgeshire,cambridge,8,1971,20.8
+Cambridgeshire,cambridge,9,1971,20.1
+Cambridgeshire,cambridge,10,1971,16.5
+Cambridgeshire,cambridge,11,1971,9.5
+Cambridgeshire,cambridge,12,1971,8.9
+Cambridgeshire,cambridge,1,1972,6
+Cambridgeshire,cambridge,2,1972,7.5
+Cambridgeshire,cambridge,3,1972,11.8
+Cambridgeshire,cambridge,4,1972,12.1
+Cambridgeshire,cambridge,5,1972,15.7
+Cambridgeshire,cambridge,6,1972,17.4
+Cambridgeshire,cambridge,7,1972,20.9
+Cambridgeshire,cambridge,8,1972,20.8
+Cambridgeshire,cambridge,9,1972,16.4
+Cambridgeshire,cambridge,10,1972,15.3
+Cambridgeshire,cambridge,11,1972,9.6
+Cambridgeshire,cambridge,12,1972,8.6
+Cambridgeshire,cambridge,1,1973,6.9
+Cambridgeshire,cambridge,2,1973,7.8
+Cambridgeshire,cambridge,3,1973,11.1
+Cambridgeshire,cambridge,4,1973,12
+Cambridgeshire,cambridge,5,1973,16.7
+Cambridgeshire,cambridge,6,1973,21.2
+Cambridgeshire,cambridge,7,1973,20.9
+Cambridgeshire,cambridge,8,1973,23.1
+Cambridgeshire,cambridge,9,1973,20.1
+Cambridgeshire,cambridge,10,1973,13.3
+Cambridgeshire,cambridge,11,1973,9.5
+Cambridgeshire,cambridge,12,1973,8
+Cambridgeshire,cambridge,2,1974,8.6
+Cambridgeshire,cambridge,3,1974,9.6
+Cambridgeshire,cambridge,4,1974,13.4
+Cambridgeshire,cambridge,5,1974,16.2
+Cambridgeshire,cambridge,6,1974,19.3
+Cambridgeshire,cambridge,7,1974,20.1
+Cambridgeshire,cambridge,8,1974,20.8
+Cambridgeshire,cambridge,9,1974,16.9
+Cambridgeshire,cambridge,10,1974,10.7
+Cambridgeshire,cambridge,12,1974,10.6
+Cambridgeshire,cambridge,1,1975,10.1
+Cambridgeshire,cambridge,2,1975,8.3
+Cambridgeshire,cambridge,3,1975,7.8
+Cambridgeshire,cambridge,4,1975,12.6
+Cambridgeshire,cambridge,5,1975,14.4
+Cambridgeshire,cambridge,6,1975,20.8
+Cambridgeshire,cambridge,7,1975,23.4
+Cambridgeshire,cambridge,8,1975,25.3
+Cambridgeshire,cambridge,9,1975,19.4
+Cambridgeshire,cambridge,10,1975,14.2
+Cambridgeshire,cambridge,11,1975,9.1
+Cambridgeshire,cambridge,12,1975,7.4
+Cambridgeshire,cambridge,1,1976,8.3
+Cambridgeshire,cambridge,2,1976,7.2
+Cambridgeshire,cambridge,3,1976,9
+Cambridgeshire,cambridge,4,1976,12.9
+Cambridgeshire,cambridge,5,1976,17.9
+Cambridgeshire,cambridge,6,1976,24.5
+Cambridgeshire,cambridge,7,1976,25.7
+Cambridgeshire,cambridge,8,1976,24.2
+Cambridgeshire,cambridge,9,1976,18.1
+Cambridgeshire,cambridge,10,1976,14.4
+Cambridgeshire,cambridge,11,1976,9.3
+Cambridgeshire,cambridge,12,1976,4.5
+Cambridgeshire,cambridge,1,1977,5.3
+Cambridgeshire,cambridge,2,1977,9
+Cambridgeshire,cambridge,3,1977,11
+Cambridgeshire,cambridge,4,1977,12.2
+Cambridgeshire,cambridge,5,1977,15.7
+Cambridgeshire,cambridge,6,1977,16.6
+Cambridgeshire,cambridge,7,1977,21.3
+Cambridgeshire,cambridge,8,1977,20
+Cambridgeshire,cambridge,9,1977,18.1
+Cambridgeshire,cambridge,10,1977,16.2
+Cambridgeshire,cambridge,11,1977,9.6
+Cambridgeshire,cambridge,12,1977,9
+Cambridgeshire,cambridge,1,1978,5.9
+Cambridgeshire,cambridge,2,1978,5.4
+Cambridgeshire,cambridge,3,1978,11.1
+Cambridgeshire,cambridge,4,1978,10.3
+Cambridgeshire,cambridge,5,1978,16
+Cambridgeshire,cambridge,6,1978,18.9
+Cambridgeshire,cambridge,7,1978,19.4
+Cambridgeshire,cambridge,8,1978,20.2
+Cambridgeshire,cambridge,9,1978,19.3
+Cambridgeshire,cambridge,10,1978,16.3
+Cambridgeshire,cambridge,11,1978,11.7
+Cambridgeshire,cambridge,12,1978,6.7
+Cambridgeshire,cambridge,1,1979,2.5
+Cambridgeshire,cambridge,2,1979,3.5
+Cambridgeshire,cambridge,3,1979,8.4
+Cambridgeshire,cambridge,4,1979,12.1
+Cambridgeshire,cambridge,5,1979,15.9
+Cambridgeshire,cambridge,6,1979,18.9
+Cambridgeshire,cambridge,7,1979,21.8
+Cambridgeshire,cambridge,8,1979,20.4
+Cambridgeshire,cambridge,9,1979,19.3
+Cambridgeshire,cambridge,10,1979,15.5
+Cambridgeshire,cambridge,11,1979,10
+Cambridgeshire,cambridge,12,1979,8.8
+Cambridgeshire,cambridge,1,1980,5.6
+Cambridgeshire,cambridge,2,1980,9.1
+Cambridgeshire,cambridge,3,1980,8.5
+Cambridgeshire,cambridge,4,1980,13.3
+Cambridgeshire,cambridge,5,1980,16.4
+Cambridgeshire,cambridge,6,1980,19.3
+Cambridgeshire,cambridge,7,1980,19.3
+Cambridgeshire,cambridge,8,1980,21.3
+Cambridgeshire,cambridge,9,1980,19.5
+Cambridgeshire,cambridge,10,1980,13.3
+Cambridgeshire,cambridge,11,1980,8.9
+Cambridgeshire,cambridge,12,1980,8.2
+Cambridgeshire,cambridge,1,1981,7.4
+Cambridgeshire,cambridge,2,1981,6.1
+Cambridgeshire,cambridge,3,1981,11
+Cambridgeshire,cambridge,4,1981,11.7
+Cambridgeshire,cambridge,5,1981,15.8
+Cambridgeshire,cambridge,6,1981,18.1
+Cambridgeshire,cambridge,7,1981,20.8
+Cambridgeshire,cambridge,8,1981,21.7
+Cambridgeshire,cambridge,9,1981,19.9
+Cambridgeshire,cambridge,10,1981,12.4
+Cambridgeshire,cambridge,11,1981,10.9
+Cambridgeshire,cambridge,12,1981,3
+Cambridgeshire,cambridge,1,1982,5.6
+Cambridgeshire,cambridge,2,1982,7.9
+Cambridgeshire,cambridge,3,1982,10.5
+Cambridgeshire,cambridge,4,1982,13.4
+Cambridgeshire,cambridge,5,1982,17.3
+Cambridgeshire,cambridge,6,1982,20.2
+Cambridgeshire,cambridge,7,1982,21.8
+Cambridgeshire,cambridge,8,1982,21.3
+Cambridgeshire,cambridge,9,1982,19.9
+Cambridgeshire,cambridge,10,1982,13.6
+Cambridgeshire,cambridge,11,1982,10.6
+Cambridgeshire,cambridge,12,1982,7.2
+Cambridgeshire,cambridge,1,1983,9.5
+Cambridgeshire,cambridge,2,1983,4.5
+Cambridgeshire,cambridge,3,1983,10.2
+Cambridgeshire,cambridge,4,1983,11.6
+Cambridgeshire,cambridge,7,1983,25.8
+Cambridgeshire,cambridge,8,1983,23.4
+Cambridgeshire,cambridge,9,1983,18.2
+Cambridgeshire,cambridge,10,1983,14.7
+Cambridgeshire,cambridge,11,1983,10.4
+Cambridgeshire,cambridge,12,1983,8.3
+Cambridgeshire,cambridge,1,1984,6.9
+Cambridgeshire,cambridge,2,1984,6.2
+Cambridgeshire,cambridge,3,1984,8
+Cambridgeshire,cambridge,4,1984,13.4
+Cambridgeshire,cambridge,5,1984,14
+Cambridgeshire,cambridge,6,1984,19.5
+Cambridgeshire,cambridge,7,1984,22.3
+Cambridgeshire,cambridge,8,1984,23.6
+Cambridgeshire,cambridge,9,1984,17.5
+Cambridgeshire,cambridge,10,1984,15.6
+Cambridgeshire,cambridge,11,1984,11.2
+Cambridgeshire,cambridge,12,1984,8.2
+Cambridgeshire,cambridge,1,1985,3.4
+Cambridgeshire,cambridge,2,1985,4.9
+Cambridgeshire,cambridge,7,1985,21.8
+Cambridgeshire,cambridge,8,1985,20.1
+Cambridgeshire,cambridge,9,1985,20.1
+Cambridgeshire,cambridge,10,1985,15.6
+Cambridgeshire,cambridge,11,1985,7.1
+Cambridgeshire,cambridge,12,1985,9.2
+Cambridgeshire,cambridge,1,1986,6.3
+Cambridgeshire,cambridge,2,1986,0.8
+Cambridgeshire,cambridge,3,1986,9.3
+Cambridgeshire,cambridge,4,1986,9.8
+Cambridgeshire,cambridge,5,1986,16.3
+Cambridgeshire,cambridge,6,1986,20.7
+Cambridgeshire,cambridge,7,1986,21.7
+Cambridgeshire,cambridge,8,1986,19.1
+Cambridgeshire,cambridge,9,1986,17.1
+Cambridgeshire,cambridge,10,1986,15.6
+Cambridgeshire,cambridge,11,1986,11
+Cambridgeshire,cambridge,12,1986,9
+Cambridgeshire,cambridge,1,1987,2.8
+Cambridgeshire,cambridge,4,1987,15.2
+Cambridgeshire,cambridge,5,1987,14.9
+Cambridgeshire,cambridge,6,1987,17.5
+Cambridgeshire,cambridge,7,1987,20.6
+Cambridgeshire,cambridge,8,1987,20.5
+Cambridgeshire,cambridge,9,1987,18.8
+Cambridgeshire,cambridge,10,1987,14.1
+Cambridgeshire,cambridge,11,1987,9
+Cambridgeshire,cambridge,12,1987,8.2
+Cambridgeshire,cambridge,1,1988,8
+Cambridgeshire,cambridge,2,1988,7.9
+Cambridgeshire,cambridge,3,1988,9.7
+Cambridgeshire,cambridge,5,1988,17
+Cambridgeshire,cambridge,6,1988,18.3
+Cambridgeshire,cambridge,7,1988,19.4
+Cambridgeshire,cambridge,8,1988,21.4
+Cambridgeshire,cambridge,12,1988,9.6
+Cambridgeshire,cambridge,1,1989,8.9
+Cambridgeshire,cambridge,2,1989,9.6
+Cambridgeshire,cambridge,3,1989,12.3
+Cambridgeshire,cambridge,4,1989,10.6
+Cambridgeshire,cambridge,5,1989,19.7
+Cambridgeshire,cambridge,6,1989,21.2
+Cambridgeshire,cambridge,7,1989,24.8
+Cambridgeshire,cambridge,8,1989,24.1
+Cambridgeshire,cambridge,9,1989,20.5
+Cambridgeshire,cambridge,10,1989,16.5
+Cambridgeshire,cambridge,11,1989,9.9
+Cambridgeshire,cambridge,12,1989,8.3
+Cambridgeshire,cambridge,1,1990,9.8
+Cambridgeshire,cambridge,2,1990,11.4
+Cambridgeshire,cambridge,4,1990,13.5
+Cambridgeshire,cambridge,5,1990,19.1
+Cambridgeshire,cambridge,6,1990,19.2
+Cambridgeshire,cambridge,7,1990,23.7
+Cambridgeshire,cambridge,8,1990,25.7
+Cambridgeshire,cambridge,9,1990,18.6
+Cambridgeshire,cambridge,10,1990,16.2
+Cambridgeshire,cambridge,11,1990,9.8
+Cambridgeshire,cambridge,12,1990,6.9
+Cambridgeshire,cambridge,1,1991,6.2
+Cambridgeshire,cambridge,2,1991,4.6
+Cambridgeshire,cambridge,3,1991,12
+Cambridgeshire,cambridge,4,1991,12.4
+Cambridgeshire,cambridge,5,1991,14.7
+Cambridgeshire,cambridge,6,1991,16.7
+Cambridgeshire,cambridge,7,1991,22.9
+Cambridgeshire,cambridge,8,1991,23.7
+Cambridgeshire,cambridge,9,1991,20.5
+Cambridgeshire,cambridge,10,1991,14.1
+Cambridgeshire,cambridge,11,1991,9.8
+Cambridgeshire,cambridge,12,1991,7.3
+Cambridgeshire,cambridge,1,1992,6.4
+Cambridgeshire,cambridge,2,1992,9.2
+Cambridgeshire,cambridge,3,1992,11.1
+Cambridgeshire,cambridge,4,1992,13.2
+Cambridgeshire,cambridge,5,1992,19.8
+Cambridgeshire,cambridge,6,1992,21.7
+Cambridgeshire,cambridge,7,1992,21.8
+Cambridgeshire,cambridge,8,1992,21.2
+Cambridgeshire,cambridge,9,1992,18.4
+Cambridgeshire,cambridge,10,1992,11.5
+Cambridgeshire,cambridge,11,1992,10.8
+Cambridgeshire,cambridge,12,1992,6.4
+Cambridgeshire,cambridge,1,1993,9.6
+Cambridgeshire,cambridge,2,1993,6.6
+Cambridgeshire,cambridge,3,1993,10.7
+Cambridgeshire,cambridge,4,1993,13.4
+Cambridgeshire,cambridge,5,1993,17.2
+Cambridgeshire,cambridge,6,1993,20.4
+Cambridgeshire,cambridge,7,1993,20.5
+Cambridgeshire,cambridge,8,1993,20.5
+Cambridgeshire,cambridge,9,1993,16.7
+Cambridgeshire,cambridge,10,1993,12.1
+Cambridgeshire,cambridge,11,1993,7.9
+Cambridgeshire,cambridge,12,1993,8.5
+Cambridgeshire,cambridge,1,1994,8.5
+Cambridgeshire,cambridge,2,1994,6.7
+Cambridgeshire,cambridge,3,1994,11.7
+Cambridgeshire,cambridge,4,1994,12.4
+Cambridgeshire,cambridge,5,1994,15.1
+Cambridgeshire,cambridge,6,1994,20.3
+Cambridgeshire,cambridge,7,1994,25.8
+Cambridgeshire,cambridge,8,1994,22.1
+Cambridgeshire,cambridge,9,1994,16.6
+Cambridgeshire,cambridge,10,1994,13.9
+Cambridgeshire,cambridge,11,1994,12.6
+Cambridgeshire,cambridge,2,1995,9.6
+Cambridgeshire,cambridge,3,1995,9.9
+Cambridgeshire,cambridge,4,1995,13.9
+Cambridgeshire,cambridge,5,1995,17.9
+Cambridgeshire,cambridge,6,1995,18.7
+Cambridgeshire,cambridge,7,1995,25.8
+Cambridgeshire,cambridge,8,1995,25.7
+Cambridgeshire,cambridge,9,1995,18
+Cambridgeshire,cambridge,10,1995,17.6
+Cambridgeshire,cambridge,11,1995,10.9
+Cambridgeshire,cambridge,12,1995,4.3
+Cambridgeshire,cambridge,1,1996,5.8
+Cambridgeshire,cambridge,2,1996,5.4
+Cambridgeshire,cambridge,3,1996,7.2
+Cambridgeshire,cambridge,4,1996,13.7
+Cambridgeshire,cambridge,5,1996,13.9
+Cambridgeshire,cambridge,6,1996,21.5
+Cambridgeshire,cambridge,7,1996,23.2
+Cambridgeshire,cambridge,8,1996,22.6
+Cambridgeshire,cambridge,9,1996,18.4
+Cambridgeshire,cambridge,10,1996,15.9
+Cambridgeshire,cambridge,11,1996,9.3
+Cambridgeshire,cambridge,12,1996,5.1
+Cambridgeshire,cambridge,1,1997,4.7
+Cambridgeshire,cambridge,2,1997,10.5
+Cambridgeshire,cambridge,3,1997,13
+Cambridgeshire,cambridge,4,1997,13.9
+Cambridgeshire,cambridge,5,1997,17.6
+Cambridgeshire,cambridge,6,1997,18.9
+Cambridgeshire,cambridge,7,1997,22.3
+Cambridgeshire,cambridge,8,1997,26.3
+Cambridgeshire,cambridge,9,1997,19.9
+Cambridgeshire,cambridge,10,1997,14.7
+Cambridgeshire,cambridge,11,1997,11.7
+Cambridgeshire,cambridge,12,1997,8.5
+Cambridgeshire,cambridge,1,1998,8.1
+Cambridgeshire,cambridge,2,1998,11.2
+Cambridgeshire,cambridge,3,1998,11.5
+Cambridgeshire,cambridge,4,1998,11.9
+Cambridgeshire,cambridge,5,1998,18.2
+Cambridgeshire,cambridge,6,1998,18.9
+Cambridgeshire,cambridge,7,1998,20.8
+Cambridgeshire,cambridge,8,1998,22.6
+Cambridgeshire,cambridge,9,1998,19.4
+Cambridgeshire,cambridge,10,1998,14
+Cambridgeshire,cambridge,11,1998,8.4
+Cambridgeshire,cambridge,12,1998,8.7
+Cambridgeshire,cambridge,1,1999,9.1
+Cambridgeshire,cambridge,2,1999,8.2
+Cambridgeshire,cambridge,3,1999,11.7
+Cambridgeshire,cambridge,4,1999,14.3
+Cambridgeshire,cambridge,5,1999,18.3
+Cambridgeshire,cambridge,6,1999,19.2
+Cambridgeshire,cambridge,7,1999,24.5
+Cambridgeshire,cambridge,8,1999,21.6
+Cambridgeshire,cambridge,9,1999,21.3
+Cambridgeshire,cambridge,10,1999,14.9
+Cambridgeshire,cambridge,11,1999,10.6
+Cambridgeshire,cambridge,12,1999,7.8
+Cambridgeshire,cambridge,1,2000,8.1
+Cambridgeshire,cambridge,2,2000,9.8
+Cambridgeshire,cambridge,3,2000,11.2
+Cambridgeshire,cambridge,4,2000,12.4
+Cambridgeshire,cambridge,5,2000,16.8
+Cambridgeshire,cambridge,6,2000,20.5
+Cambridgeshire,cambridge,7,2000,20.1
+Cambridgeshire,cambridge,8,2000,23.1
+Cambridgeshire,cambridge,9,2000,20
+Cambridgeshire,cambridge,10,2000,14
+Cambridgeshire,cambridge,11,2000,10.4
+Cambridgeshire,cambridge,12,2000,8.1
+Cambridgeshire,cambridge,1,2001,6.1
+Cambridgeshire,cambridge,2,2001,8.2
+Cambridgeshire,cambridge,3,2001,9
+Cambridgeshire,cambridge,4,2001,12.1
+Cambridgeshire,cambridge,5,2001,18.5
+Cambridgeshire,cambridge,6,2001,19.9
+Cambridgeshire,cambridge,7,2001,23.1
+Cambridgeshire,cambridge,8,2001,22.9
+Cambridgeshire,cambridge,9,2001,17.3
+Cambridgeshire,cambridge,10,2001,17.3
+Cambridgeshire,cambridge,11,2001,10.6
+Cambridgeshire,cambridge,12,2001,6.2
+Cambridgeshire,cambridge,1,2002,8.9
+Cambridgeshire,cambridge,2,2002,10.7
+Cambridgeshire,cambridge,3,2002,12
+Cambridgeshire,cambridge,4,2002,14.7
+Cambridgeshire,cambridge,5,2002,16.6
+Cambridgeshire,cambridge,6,2002,20.1
+Cambridgeshire,cambridge,7,2002,22
+Cambridgeshire,cambridge,8,2002,22.9
+Cambridgeshire,cambridge,9,2002,19.6
+Cambridgeshire,cambridge,10,2002,14.3
+Cambridgeshire,cambridge,11,2002,11.4
+Cambridgeshire,cambridge,12,2002,8.2
+Cambridgeshire,cambridge,1,2003,7
+Cambridgeshire,cambridge,2,2003,7.8
+Cambridgeshire,cambridge,3,2003,12.9
+Cambridgeshire,cambridge,4,2003,15.1
+Cambridgeshire,cambridge,5,2003,17.5
+Cambridgeshire,cambridge,6,2003,22.1
+Cambridgeshire,cambridge,7,2003,23.7
+Cambridgeshire,cambridge,8,2003,25.3
+Cambridgeshire,cambridge,9,2003,21.3
+Cambridgeshire,cambridge,10,2003,14
+Cambridgeshire,cambridge,11,2003,11.7
+Cambridgeshire,cambridge,12,2003,8.1
+Cambridgeshire,cambridge,1,2004,8.1
+Cambridgeshire,cambridge,2,2004,8.1
+Cambridgeshire,cambridge,3,2004,10.5
+Cambridgeshire,cambridge,4,2004,14.2
+Cambridgeshire,cambridge,5,2004,16.9
+Cambridgeshire,cambridge,6,2004,21.2
+Cambridgeshire,cambridge,7,2004,22
+Cambridgeshire,cambridge,8,2004,24
+Cambridgeshire,cambridge,9,2004,20.6
+Cambridgeshire,cambridge,10,2004,15
+Cambridgeshire,cambridge,11,2004,10.5
+Cambridgeshire,cambridge,12,2004,8.4
+Cambridgeshire,cambridge,1,2005,9.2
+Cambridgeshire,cambridge,2,2005,7.1
+Cambridgeshire,cambridge,3,2005,10.7
+Cambridgeshire,cambridge,4,2005,14.2
+Cambridgeshire,cambridge,5,2005,16.6
+Cambridgeshire,cambridge,6,2005,21.8
+Cambridgeshire,cambridge,7,2005,22
+Cambridgeshire,cambridge,8,2005,22.6
+Cambridgeshire,cambridge,9,2005,21.1
+Cambridgeshire,cambridge,10,2005,17.4
+Cambridgeshire,cambridge,11,2005,10.1
+Cambridgeshire,cambridge,12,2005,7.8
+Cambridgeshire,cambridge,1,2006,7
+Cambridgeshire,cambridge,2,2006,7
+Cambridgeshire,cambridge,3,2006,9
+Cambridgeshire,cambridge,4,2006,13.5
+Cambridgeshire,cambridge,5,2006,17.4
+Cambridgeshire,cambridge,6,2006,22.5
+Cambridgeshire,cambridge,7,2006,28.3
+Cambridgeshire,cambridge,8,2006,21.5
+Cambridgeshire,cambridge,9,2006,22.7
+Cambridgeshire,cambridge,10,2006,17.5
+Cambridgeshire,cambridge,11,2006,12.5
+Cambridgeshire,cambridge,12,2006,9.7
+Cambridgeshire,cambridge,1,2007,10.4
+Cambridgeshire,cambridge,2,2007,9.7
+Cambridgeshire,cambridge,3,2007,12.1
+Cambridgeshire,cambridge,4,2007,17.1
+Cambridgeshire,cambridge,5,2007,16.9
+Cambridgeshire,cambridge,6,2007,20.4
+Cambridgeshire,cambridge,7,2007,21.6
+Cambridgeshire,cambridge,8,2007,21.6
+Cambridgeshire,cambridge,9,2007,19.5
+Cambridgeshire,cambridge,10,2007,15.2
+Cambridgeshire,cambridge,11,2007,11.1
+Cambridgeshire,cambridge,12,2007,8.5
+Cambridgeshire,cambridge,1,2008,10.3
+Cambridgeshire,cambridge,2,2008,9.9
+Cambridgeshire,cambridge,3,2008,10.1
+Cambridgeshire,cambridge,4,2008,13.1
+Cambridgeshire,cambridge,5,2008,19
+Cambridgeshire,cambridge,6,2008,19.7
+Cambridgeshire,cambridge,7,2008,22.8
+Cambridgeshire,cambridge,8,2008,22.3
+Cambridgeshire,cambridge,9,2008,18.6
+Cambridgeshire,cambridge,10,2008,14.4
+Cambridgeshire,cambridge,11,2008,10.3
+Cambridgeshire,cambridge,12,2008,6.6
+Cambridgeshire,cambridge,1,2009,5.8
+Cambridgeshire,cambridge,2,2009,7.1
+Cambridgeshire,cambridge,3,2009,11.9
+Cambridgeshire,cambridge,4,2009,15.6
+Cambridgeshire,cambridge,5,2009,18.3
+Cambridgeshire,cambridge,6,2009,20.9
+Cambridgeshire,cambridge,7,2009,22.5
+Cambridgeshire,cambridge,8,2009,23.6
+Cambridgeshire,cambridge,9,2009,20.1
+Cambridgeshire,cambridge,10,2009,15.7
+Cambridgeshire,cambridge,11,2009,12
+Cambridgeshire,cambridge,12,2009,6.2
+Cambridgeshire,cambridge,1,2010,3.9
+Cambridgeshire,cambridge,2,2010,6.1
+Cambridgeshire,cambridge,3,2010,10.9
+Cambridgeshire,cambridge,4,2010,14.9
+Cambridgeshire,cambridge,5,2010,16.5
+Cambridgeshire,cambridge,6,2010,21.6
+Cambridgeshire,cambridge,7,2010,24.6
+Cambridgeshire,cambridge,8,2010,21
+Cambridgeshire,cambridge,9,2010,19
+Cambridgeshire,cambridge,10,2010,14.7
+Cambridgeshire,cambridge,11,2010,8.4
+Cambridgeshire,cambridge,12,2010,2.8
+Cambridgeshire,cambridge,1,2011,6.8
+Cambridgeshire,cambridge,2,2011,9.6
+Cambridgeshire,cambridge,3,2011,11.6
+Cambridgeshire,cambridge,4,2011,18.6
+Cambridgeshire,cambridge,5,2011,18.7
+Cambridgeshire,cambridge,6,2011,20.3
+Cambridgeshire,cambridge,7,2011,21.2
+Cambridgeshire,cambridge,8,2011,21.6
+Cambridgeshire,cambridge,9,2011,21.2
+Cambridgeshire,cambridge,10,2011,17.9
+Cambridgeshire,cambridge,11,2011,13.3
+Cambridgeshire,cambridge,12,2011,9.1
+Cambridgeshire,cambridge,1,2012,9.1
+Cambridgeshire,cambridge,2,2012,7
+Cambridgeshire,cambridge,3,2012,13.3
+Cambridgeshire,cambridge,4,2012,12.2
+Cambridgeshire,cambridge,5,2012,16.9
+Cambridgeshire,cambridge,6,2012,18.5
+Cambridgeshire,cambridge,7,2012,21.2
+Cambridgeshire,cambridge,8,2012,23.5
+Cambridgeshire,cambridge,9,2012,19.3
+Cambridgeshire,cambridge,10,2012,13.5
+Cambridgeshire,cambridge,11,2012,10
+Cambridgeshire,cambridge,12,2012,8.1
+Cambridgeshire,cambridge,1,2013,5.8
+Cambridgeshire,cambridge,2,2013,6
+Cambridgeshire,cambridge,3,2013,6.2
+Cambridgeshire,cambridge,4,2013,13.2
+Cambridgeshire,cambridge,5,2013,15.9
+Cambridgeshire,cambridge,6,2013,19.2
+Cambridgeshire,cambridge,7,2013,25.1
+Cambridgeshire,cambridge,8,2013,23.5
+Cambridgeshire,cambridge,9,2013,19
+Cambridgeshire,cambridge,10,2013,16.2
+Cambridgeshire,cambridge,11,2013,9.6
+Cambridgeshire,cambridge,12,2013,9.7
+Cambridgeshire,cambridge,1,2014,9.2
+Cambridgeshire,cambridge,2,2014,9.8
+Cambridgeshire,cambridge,3,2014,13.4
+Cambridgeshire,cambridge,4,2014,15.9
+Cambridgeshire,cambridge,5,2014,17.7
+Cambridgeshire,cambridge,6,2014,20.8
+Cambridgeshire,cambridge,7,2014,24.4
+Cambridgeshire,cambridge,8,2014,21
+Cambridgeshire,cambridge,9,2014,20.5
+Cambridgeshire,cambridge,10,2014,17
+Cambridgeshire,cambridge,11,2014,11.9
+Cambridgeshire,cambridge,12,2014,8.5
+Cambridgeshire,cambridge,1,2015,8
+Cambridgeshire,cambridge,2,2015,7.4
+Cambridgeshire,cambridge,3,2015,11.1
+Cambridgeshire,cambridge,4,2015,15
+Cambridgeshire,cambridge,5,2015,16.5
+Cambridgeshire,cambridge,6,2015,20.3
+Cambridgeshire,cambridge,7,2015,22.5
+Cambridgeshire,cambridge,8,2015,22.2
+Cambridgeshire,cambridge,9,2015,18.1
+Cambridgeshire,cambridge,10,2015,15.1
+Cambridgeshire,cambridge,11,2015,13.3
+Cambridgeshire,cambridge,12,2015,13.2
+Cambridgeshire,cambridge,1,2016,8.7
+Cambridgeshire,cambridge,2,2016,8.8
+Cambridgeshire,cambridge,3,2016,10
+Cambridgeshire,cambridge,4,2016,12.4
+Cambridgeshire,cambridge,5,2016,17.7
+Cambridgeshire,cambridge,6,2016,19.7
+Cambridgeshire,cambridge,7,2016,23.2
+Cambridgeshire,cambridge,8,2016,23.9
+Cambridgeshire,cambridge,9,2016,21.8
+Cambridgeshire,cambridge,10,2016,15
+Cambridgeshire,cambridge,11,2016,9.6
+Cambridgeshire,cambridge,12,2016,9.4
+Cambridgeshire,cambridge,1,2017,6.7
+Cambridgeshire,cambridge,2,2017,9.3
+Cambridgeshire,cambridge,3,2017,13.4
+Cambridgeshire,cambridge,4,2017,14.5
+Cambridgeshire,cambridge,5,2017,18.6
+Cambridgeshire,cambridge,6,2017,21.9
+Cambridgeshire,cambridge,7,2017,22.1
+Cambridgeshire,cambridge,8,2017,21.5
+Cambridgeshire,cambridge,9,2017,18.3
+Cambridgeshire,cambridge,10,2017,16.3
+Cambridgeshire,cambridge,11,2017,10.2
+Cambridgeshire,cambridge,12,2017,7.5
+Cambridgeshire,cambridge,1,2018,8.5
+Cambridgeshire,cambridge,2,2018,5.9
+Cambridgeshire,cambridge,3,2018,8.7
+Cambridgeshire,cambridge,4,2018,14.2
+Cambridgeshire,cambridge,5,2018,19.1
+Cambridgeshire,cambridge,6,2018,22
+Cambridgeshire,cambridge,7,2018,26.7
+Cambridgeshire,cambridge,8,2018,23.1
+Cambridgeshire,cambridge,9,2018,19.9
+Cambridgeshire,cambridge,10,2018,15.8
+Cambridgeshire,cambridge,11,2018,11.4
+Cambridgeshire,cambridge,12,2018,9.8
+Cambridgeshire,cambridge,1,2019,6.7
+Cambridgeshire,cambridge,2,2019,11.6
+Cambridgeshire,cambridge,3,2019,12.2
+Cambridgeshire,cambridge,4,2019,15
+Cambridgeshire,cambridge,5,2019,17.1
+Cambridgeshire,cambridge,6,2019,20.1
+Cambridgeshire,cambridge,7,2019,24.1
+Cambridgeshire,cambridge,8,2019,24.2
+Cambridgeshire,cambridge,9,2019,20.2
+Cambridgeshire,cambridge,10,2019,14.3
+Cambridgeshire,cambridge,11,2019,9.3
+Cambridgeshire,cambridge,12,2019,9
+Cambridgeshire,cambridge,1,2020,9.1
+Cambridgeshire,cambridge,2,2020,10.2
+Cambridgeshire,cambridge,3,2020,11.1
+Cambridgeshire,cambridge,4,2020,16.8
+Cambridgeshire,cambridge,5,2020,19.4
+Cambridgeshire,cambridge,6,2020,21.2
+Glamorgan,cardiff,9,1977,18.3
+Glamorgan,cardiff,10,1977,15.4
+Glamorgan,cardiff,11,1977,10.3
+Glamorgan,cardiff,12,1977,9.6
+Glamorgan,cardiff,1,1978,7.5
+Glamorgan,cardiff,2,1978,6.2
+Glamorgan,cardiff,3,1978,10.6
+Glamorgan,cardiff,4,1978,10.9
+Glamorgan,cardiff,5,1978,17.3
+Glamorgan,cardiff,6,1978,18.5
+Glamorgan,cardiff,7,1978,18.7
+Glamorgan,cardiff,8,1978,19.6
+Glamorgan,cardiff,9,1978,18.4
+Glamorgan,cardiff,10,1978,16.6
+Glamorgan,cardiff,11,1978,12.5
+Glamorgan,cardiff,12,1978,8.2
+Glamorgan,cardiff,1,1979,4.6
+Glamorgan,cardiff,2,1979,4.4
+Glamorgan,cardiff,3,1979,8.4
+Glamorgan,cardiff,4,1979,12.3
+Glamorgan,cardiff,5,1979,13.9
+Glamorgan,cardiff,6,1979,18.2
+Glamorgan,cardiff,7,1979,21.1
+Glamorgan,cardiff,8,1979,18.9
+Glamorgan,cardiff,9,1979,17.7
+Glamorgan,cardiff,10,1979,15.5
+Glamorgan,cardiff,11,1979,11.2
+Glamorgan,cardiff,12,1979,10.1
+Glamorgan,cardiff,1,1980,6
+Glamorgan,cardiff,2,1980,9.9
+Glamorgan,cardiff,3,1980,8.8
+Glamorgan,cardiff,4,1980,14.4
+Glamorgan,cardiff,5,1980,17.7
+Glamorgan,cardiff,6,1980,18.3
+Glamorgan,cardiff,7,1980,19
+Glamorgan,cardiff,8,1980,20
+Glamorgan,cardiff,9,1980,18.5
+Glamorgan,cardiff,10,1980,13.3
+Glamorgan,cardiff,11,1980,9.8
+Glamorgan,cardiff,12,1980,9.5
+Glamorgan,cardiff,1,1981,8.8
+Glamorgan,cardiff,2,1981,6.8
+Glamorgan,cardiff,3,1981,11.6
+Glamorgan,cardiff,4,1981,13.2
+Glamorgan,cardiff,5,1981,15.4
+Glamorgan,cardiff,6,1981,17.8
+Glamorgan,cardiff,7,1981,20
+Glamorgan,cardiff,8,1981,22.1
+Glamorgan,cardiff,9,1981,19.3
+Glamorgan,cardiff,10,1981,12.6
+Glamorgan,cardiff,11,1981,11.4
+Glamorgan,cardiff,12,1981,5.7
+Glamorgan,cardiff,1,1982,6.5
+Glamorgan,cardiff,2,1982,8.8
+Glamorgan,cardiff,3,1982,10.5
+Glamorgan,cardiff,4,1982,14.2
+Glamorgan,cardiff,5,1982,17.3
+Glamorgan,cardiff,6,1982,20.9
+Glamorgan,cardiff,7,1982,21.6
+Glamorgan,cardiff,8,1982,20.1
+Glamorgan,cardiff,9,1982,19.1
+Glamorgan,cardiff,10,1982,13.9
+Glamorgan,cardiff,11,1982,11.3
+Glamorgan,cardiff,12,1982,8.4
+Glamorgan,cardiff,1,1983,10.2
+Glamorgan,cardiff,2,1983,5.5
+Glamorgan,cardiff,3,1983,10.3
+Glamorgan,cardiff,4,1983,11.8
+Glamorgan,cardiff,5,1983,14.2
+Glamorgan,cardiff,6,1983,19.2
+Glamorgan,cardiff,7,1983,25.9
+Glamorgan,cardiff,8,1983,23.5
+Glamorgan,cardiff,9,1983,17.1
+Glamorgan,cardiff,10,1983,14.5
+Glamorgan,cardiff,11,1983,10.9
+Glamorgan,cardiff,12,1983,9.9
+Glamorgan,cardiff,1,1984,8.3
+Glamorgan,cardiff,2,1984,7.9
+Glamorgan,cardiff,3,1984,9.2
+Glamorgan,cardiff,4,1984,14.8
+Glamorgan,cardiff,5,1984,16.1
+Glamorgan,cardiff,6,1984,20.9
+Glamorgan,cardiff,7,1984,23.1
+Glamorgan,cardiff,8,1984,23.3
+Glamorgan,cardiff,9,1984,18.3
+Glamorgan,cardiff,10,1984,15.3
+Glamorgan,cardiff,11,1984,11.6
+Glamorgan,cardiff,12,1984,9.6
+Glamorgan,cardiff,1,1985,5.4
+Glamorgan,cardiff,2,1985,6.6
+Glamorgan,cardiff,3,1985,9.6
+Glamorgan,cardiff,4,1985,13.3
+Glamorgan,cardiff,5,1985,16.6
+Glamorgan,cardiff,6,1985,17.4
+Glamorgan,cardiff,7,1985,21.2
+Glamorgan,cardiff,8,1985,18.4
+Glamorgan,cardiff,9,1985,18.9
+Glamorgan,cardiff,9,1986,16.7
+Glamorgan,cardiff,10,1986,15.1
+Glamorgan,cardiff,11,1986,12.1
+Glamorgan,cardiff,12,1986,10.3
+Glamorgan,cardiff,1,1987,4.2
+Glamorgan,cardiff,2,1987,7.6
+Glamorgan,cardiff,3,1987,8.6
+Glamorgan,cardiff,4,1987,15.6
+Glamorgan,cardiff,5,1987,16.1
+Glamorgan,cardiff,6,1987,17.6
+Glamorgan,cardiff,7,1987,21.4
+Glamorgan,cardiff,8,1987,21.6
+Glamorgan,cardiff,9,1987,18.6
+Glamorgan,cardiff,10,1987,14
+Glamorgan,cardiff,11,1987,10.2
+Glamorgan,cardiff,12,1987,8.4
+Glamorgan,cardiff,1,1988,9
+Glamorgan,cardiff,2,1988,9.3
+Glamorgan,cardiff,3,1988,10.8
+Glamorgan,cardiff,4,1988,13.4
+Glamorgan,cardiff,5,1988,17.5
+Glamorgan,cardiff,6,1988,19.8
+Glamorgan,cardiff,7,1988,18.4
+Glamorgan,cardiff,8,1988,19.6
+Glamorgan,cardiff,9,1988,17.7
+Glamorgan,cardiff,10,1988,14.4
+Glamorgan,cardiff,11,1988,10.2
+Glamorgan,cardiff,12,1988,11
+Glamorgan,cardiff,1,1989,9.9
+Glamorgan,cardiff,2,1989,10.4
+Glamorgan,cardiff,3,1989,11.9
+Glamorgan,cardiff,4,1989,11.5
+Glamorgan,cardiff,5,1989,19.9
+Glamorgan,cardiff,6,1989,20.8
+Glamorgan,cardiff,7,1989,24.7
+Glamorgan,cardiff,8,1989,22.2
+Glamorgan,cardiff,9,1989,19.5
+Glamorgan,cardiff,10,1989,15.7
+Glamorgan,cardiff,11,1989,10.7
+Glamorgan,cardiff,12,1989,8.8
+Glamorgan,cardiff,1,1990,10.3
+Glamorgan,cardiff,2,1990,11
+Glamorgan,cardiff,3,1990,12.7
+Glamorgan,cardiff,4,1990,14.1
+Glamorgan,cardiff,5,1990,19.9
+Glamorgan,cardiff,6,1990,18
+Glamorgan,cardiff,7,1990,23.7
+Glamorgan,cardiff,10,1990,16.1
+Glamorgan,cardiff,11,1990,10.5
+Glamorgan,cardiff,12,1990,8.1
+Glamorgan,cardiff,1,1991,7
+Glamorgan,cardiff,2,1991,6
+Glamorgan,cardiff,3,1991,12
+Glamorgan,cardiff,4,1991,12.7
+Glamorgan,cardiff,5,1991,16.7
+Glamorgan,cardiff,6,1991,16.4
+Glamorgan,cardiff,7,1991,21.1
+Glamorgan,cardiff,8,1991,22.2
+Glamorgan,cardiff,9,1991,20.1
+Glamorgan,cardiff,10,1991,13.6
+Glamorgan,cardiff,11,1991,10.6
+Glamorgan,cardiff,12,1991,8
+Glamorgan,cardiff,1,1992,6.7
+Glamorgan,cardiff,2,1992,9.2
+Glamorgan,cardiff,3,1992,11.3
+Glamorgan,cardiff,4,1992,13
+Glamorgan,cardiff,5,1992,19.3
+Glamorgan,cardiff,6,1992,22.3
+Glamorgan,cardiff,7,1992,20.9
+Glamorgan,cardiff,8,1992,19.4
+Glamorgan,cardiff,9,1992,17.3
+Glamorgan,cardiff,10,1992,12
+Glamorgan,cardiff,11,1992,11.3
+Glamorgan,cardiff,12,1992,7.3
+Glamorgan,cardiff,1,1993,10.1
+Glamorgan,cardiff,2,1993,8.2
+Glamorgan,cardiff,3,1993,10.9
+Glamorgan,cardiff,4,1993,13.5
+Glamorgan,cardiff,5,1993,16.1
+Glamorgan,cardiff,6,1993,20.6
+Glamorgan,cardiff,7,1993,20
+Glamorgan,cardiff,8,1993,19.6
+Glamorgan,cardiff,9,1993,17.4
+Glamorgan,cardiff,10,1993,12.5
+Glamorgan,cardiff,11,1993,9.1
+Glamorgan,cardiff,12,1993,9.6
+Glamorgan,cardiff,1,1994,9
+Glamorgan,cardiff,2,1994,7.3
+Glamorgan,cardiff,3,1994,11.3
+Glamorgan,cardiff,4,1994,13
+Glamorgan,cardiff,5,1994,15.5
+Glamorgan,cardiff,6,1994,19.3
+Glamorgan,cardiff,7,1994,23.1
+Glamorgan,cardiff,8,1994,20.5
+Glamorgan,cardiff,9,1994,16.9
+Glamorgan,cardiff,10,1994,14.8
+Glamorgan,cardiff,11,1994,13.3
+Glamorgan,cardiff,12,1994,10.6
+Glamorgan,cardiff,1,1995,8.9
+Glamorgan,cardiff,2,1995,10.5
+Glamorgan,cardiff,3,1995,10.7
+Glamorgan,cardiff,4,1995,14.3
+Glamorgan,cardiff,5,1995,17.3
+Glamorgan,cardiff,6,1995,20.3
+Glamorgan,cardiff,7,1995,23.4
+Glamorgan,cardiff,8,1995,26
+Glamorgan,cardiff,9,1995,18.4
+Glamorgan,cardiff,10,1995,17
+Glamorgan,cardiff,11,1995,12
+Glamorgan,cardiff,12,1995,5.8
+Glamorgan,cardiff,1,1996,6.9
+Glamorgan,cardiff,2,1996,6.9
+Glamorgan,cardiff,3,1996,8.8
+Glamorgan,cardiff,4,1996,13.8
+Glamorgan,cardiff,5,1996,14.4
+Glamorgan,cardiff,7,1996,22.1
+Glamorgan,cardiff,8,1996,22
+Glamorgan,cardiff,9,1996,18.9
+Glamorgan,cardiff,10,1996,15.5
+Glamorgan,cardiff,11,1996,10.3
+Glamorgan,cardiff,12,1996,6.8
+Glamorgan,cardiff,1,1997,5.8
+Glamorgan,cardiff,2,1997,10.6
+Glamorgan,cardiff,3,1997,12.2
+Glamorgan,cardiff,4,1997,15.1
+Glamorgan,cardiff,5,1997,17.2
+Glamorgan,cardiff,6,1997,18.9
+Glamorgan,cardiff,7,1997,22.1
+Glamorgan,cardiff,8,1997,23.3
+Glamorgan,cardiff,9,1997,19
+Glamorgan,cardiff,10,1997,15.1
+Glamorgan,cardiff,11,1997,12.4
+Glamorgan,cardiff,12,1997,9.9
+Glamorgan,cardiff,1,1998,8.8
+Glamorgan,cardiff,2,1998,11.6
+Glamorgan,cardiff,3,1998,12.3
+Glamorgan,cardiff,4,1998,12.2
+Glamorgan,cardiff,5,1998,19.2
+Glamorgan,cardiff,6,1998,18.1
+Glamorgan,cardiff,7,1998,19.8
+Glamorgan,cardiff,8,1998,20.9
+Glamorgan,cardiff,9,1998,19.1
+Glamorgan,cardiff,11,1998,10.6
+Glamorgan,cardiff,12,1998,9.6
+Glamorgan,cardiff,1,1999,10.2
+Glamorgan,cardiff,2,1999,9.1
+Glamorgan,cardiff,3,1999,11.8
+Glamorgan,cardiff,4,1999,13.8
+Glamorgan,cardiff,5,1999,17.5
+Glamorgan,cardiff,6,1999,19.1
+Glamorgan,cardiff,7,1999,23.1
+Glamorgan,cardiff,8,1999,21.3
+Glamorgan,cardiff,9,1999,20.2
+Glamorgan,cardiff,10,1999,15.2
+Glamorgan,cardiff,11,1999,11.8
+Glamorgan,cardiff,12,1999,9.3
+Glamorgan,cardiff,1,2000,8.5
+Glamorgan,cardiff,2,2000,10.4
+Glamorgan,cardiff,3,2000,11.8
+Glamorgan,cardiff,4,2000,12.3
+Glamorgan,cardiff,5,2000,17.2
+Glamorgan,cardiff,6,2000,20.2
+Glamorgan,cardiff,7,2000,20.8
+Glamorgan,cardiff,8,2000,21.9
+Glamorgan,cardiff,9,2000,19.3
+Glamorgan,cardiff,10,2000,15
+Glamorgan,cardiff,11,2000,11.1
+Glamorgan,cardiff,12,2000,9.9
+Glamorgan,cardiff,1,2001,7.8
+Glamorgan,cardiff,2,2001,10.1
+Glamorgan,cardiff,3,2001,9.5
+Glamorgan,cardiff,4,2001,12.9
+Glamorgan,cardiff,5,2001,18.1
+Glamorgan,cardiff,6,2001,20.2
+Glamorgan,cardiff,7,2001,21.6
+Glamorgan,cardiff,8,2001,21.1
+Glamorgan,cardiff,9,2001,18.5
+Glamorgan,cardiff,10,2001,17.2
+Glamorgan,cardiff,11,2001,12.2
+Glamorgan,cardiff,12,2001,8.4
+Glamorgan,cardiff,1,2002,9.8
+Glamorgan,cardiff,2,2002,11.1
+Glamorgan,cardiff,3,2002,12.5
+Glamorgan,cardiff,1,2003,8.6
+Glamorgan,cardiff,2,2003,8.7
+Glamorgan,cardiff,3,2003,13.6
+Glamorgan,cardiff,4,2003,16.2
+Glamorgan,cardiff,5,2003,16.7
+Glamorgan,cardiff,6,2003,21.3
+Glamorgan,cardiff,7,2003,22
+Glamorgan,cardiff,8,2003,24.5
+Glamorgan,cardiff,9,2003,20.5
+Glamorgan,cardiff,10,2003,14.4
+Glamorgan,cardiff,11,2003,12.5
+Glamorgan,cardiff,12,2003,9.6
+Glamorgan,cardiff,1,2004,9.4
+Glamorgan,cardiff,2,2004,9.6
+Glamorgan,cardiff,3,2004,11.4
+Glamorgan,cardiff,4,2004,14.7
+Glamorgan,cardiff,5,2004,18.3
+Glamorgan,cardiff,6,2004,21.2
+Glamorgan,cardiff,7,2004,20.7
+Glamorgan,cardiff,8,2004,22.3
+Glamorgan,cardiff,9,2004,19.5
+Glamorgan,cardiff,10,2004,15
+Glamorgan,cardiff,11,2004,12
+Glamorgan,cardiff,12,2004,9.7
+Glamorgan,cardiff,1,2005,10.4
+Glamorgan,cardiff,2,2005,8.8
+Glamorgan,cardiff,3,2005,11.6
+Glamorgan,cardiff,4,2005,14.7
+Glamorgan,cardiff,5,2005,17.2
+Glamorgan,cardiff,6,2005,20.6
+Glamorgan,cardiff,7,2005,22.2
+Glamorgan,cardiff,11,2005,10.9
+Glamorgan,cardiff,12,2005,9.3
+Glamorgan,cardiff,1,2006,8
+Glamorgan,cardiff,2,2006,7.7
+Glamorgan,cardiff,3,2006,9.5
+Glamorgan,cardiff,4,2006,14.1
+Glamorgan,cardiff,5,2006,17
+Glamorgan,cardiff,6,2006,21.9
+Glamorgan,cardiff,7,2006,25.5
+Glamorgan,cardiff,8,2006,21.1
+Glamorgan,cardiff,9,2006,21.3
+Glamorgan,cardiff,10,2006,16.8
+Glamorgan,cardiff,11,2006,12.5
+Glamorgan,cardiff,12,2006,10.1
+Glamorgan,cardiff,1,2007,10.5
+Glamorgan,cardiff,2,2007,10
+Glamorgan,cardiff,3,2007,12.6
+Glamorgan,cardiff,9,2007,18.5
+Glamorgan,cardiff,10,2007,14.9
+Glamorgan,cardiff,4,2008,13.9
+Glamorgan,cardiff,5,2008,19.4
+Glamorgan,cardiff,6,2008,19.7
+Glamorgan,cardiff,7,2008,21.2
+Glamorgan,cardiff,8,2008,20.3
+Glamorgan,cardiff,9,2008,18.8
+Glamorgan,cardiff,10,2008,15.2
+Glamorgan,cardiff,11,2008,11.5
+Glamorgan,cardiff,12,2008,7
+Glamorgan,cardiff,1,2009,6.6
+Glamorgan,cardiff,2,2009,7.7
+Glamorgan,cardiff,3,2009,11
+Glamorgan,cardiff,4,2009,13.9
+Glamorgan,cardiff,5,2009,17.1
+Glamorgan,cardiff,6,2009,21
+Glamorgan,cardiff,7,2009,20.2
+Glamorgan,cardiff,8,2009,20.7
+Glamorgan,cardiff,9,2009,19.1
+Glamorgan,cardiff,10,2009,16.3
+Glamorgan,cardiff,11,2009,12.6
+Glamorgan,cardiff,12,2009,7.2
+Glamorgan,cardiff,1,2010,5.7
+Glamorgan,cardiff,2,2010,7.3
+Glamorgan,cardiff,3,2010,10.8
+Glamorgan,cardiff,4,2010,15.1
+Glamorgan,cardiff,5,2010,17.1
+Glamorgan,cardiff,6,2010,21.9
+Glamorgan,cardiff,7,2010,22
+Glamorgan,cardiff,8,2010,20.6
+Glamorgan,cardiff,11,2010,9.4
+Glamorgan,cardiff,12,2010,3.9
+Glamorgan,cardiff,1,2011,7.3
+Glamorgan,cardiff,2,2011,10.2
+Glamorgan,cardiff,3,2011,12
+Glamorgan,cardiff,4,2011,18.2
+Glamorgan,cardiff,5,2011,16.8
+Glamorgan,cardiff,6,2011,18.7
+Glamorgan,cardiff,7,2011,20.7
+Glamorgan,cardiff,8,2011,19.9
+Glamorgan,cardiff,9,2011,19.4
+Glamorgan,cardiff,10,2011,16.9
+Glamorgan,cardiff,11,2011,13.4
+Glamorgan,cardiff,12,2011,10.2
+Glamorgan,cardiff,1,2012,9.6
+Glamorgan,cardiff,2,2012,8.5
+Glamorgan,cardiff,3,2012,13.9
+Glamorgan,cardiff,4,2012,12.5
+Glamorgan,cardiff,5,2012,17.4
+Glamorgan,cardiff,6,2012,17.9
+Glamorgan,cardiff,7,2012,20.1
+Glamorgan,cardiff,8,2012,20.9
+Glamorgan,cardiff,9,2012,17.9
+Glamorgan,cardiff,10,2012,13.9
+Glamorgan,cardiff,11,2012,10.9
+Glamorgan,cardiff,12,2012,9.4
+Glamorgan,cardiff,1,2013,7.3
+Glamorgan,cardiff,2,2013,7
+Glamorgan,cardiff,3,2013,7.1
+Glamorgan,cardiff,4,2013,12.1
+Glamorgan,cardiff,5,2013,16
+Glamorgan,cardiff,6,2013,19.1
+Glamorgan,cardiff,7,2013,25
+Glamorgan,cardiff,8,2013,22
+Glamorgan,cardiff,9,2013,18.7
+Glamorgan,cardiff,10,2013,16.7
+Glamorgan,cardiff,11,2013,10.8
+Glamorgan,cardiff,12,2013,10.6
+Glamorgan,cardiff,1,2014,9.6
+Glamorgan,cardiff,2,2014,10.1
+Glamorgan,cardiff,3,2014,12.3
+Glamorgan,cardiff,4,2014,15.1
+Glamorgan,cardiff,5,2014,17.1
+Glamorgan,cardiff,6,2014,21.3
+Glamorgan,cardiff,7,2014,23.6
+Glamorgan,cardiff,8,2014,19.9
+Glamorgan,cardiff,9,2014,20.7
+Glamorgan,cardiff,10,2014,16.4
+Glamorgan,cardiff,11,2014,12.4
+Glamorgan,cardiff,12,2014,9.6
+Glamorgan,cardiff,1,2015,9
+Glamorgan,cardiff,2,2015,8.3
+Glamorgan,cardiff,3,2015,11
+Glamorgan,cardiff,4,2015,16.1
+Glamorgan,cardiff,5,2015,15.9
+Glamorgan,cardiff,6,2015,19.6
+Glamorgan,cardiff,7,2015,20.2
+Glamorgan,cardiff,8,2015,20.3
+Glamorgan,cardiff,9,2015,18.3
+Glamorgan,cardiff,10,2015,15.6
+Glamorgan,cardiff,11,2015,13.3
+Glamorgan,cardiff,12,2015,13.2
+Glamorgan,cardiff,1,2016,9.6
+Glamorgan,cardiff,2,2016,9.4
+Glamorgan,cardiff,3,2016,10.7
+Glamorgan,cardiff,4,2016,13.2
+Glamorgan,cardiff,5,2016,18.5
+Glamorgan,cardiff,6,2016,19.9
+Glamorgan,cardiff,7,2016,21.3
+Glamorgan,cardiff,8,2016,21.6
+Glamorgan,cardiff,9,2016,20.1
+Glamorgan,cardiff,10,2016,15
+Glamorgan,cardiff,11,2016,10.3
+Glamorgan,cardiff,12,2016,9.6
+Glamorgan,cardiff,1,2017,8.3
+Glamorgan,cardiff,2,2017,9.4
+Glamorgan,cardiff,3,2017,12.6
+Glamorgan,cardiff,4,2017,15
+Glamorgan,cardiff,5,2017,18.5
+Glamorgan,cardiff,6,2017,20.9
+Glamorgan,cardiff,7,2017,21.4
+Glamorgan,cardiff,8,2017,20.5
+Glamorgan,cardiff,9,2017,18.3
+Glamorgan,cardiff,10,2017,16.4
+Glamorgan,cardiff,11,2017,11.8
+Glamorgan,cardiff,12,2017,9.3
+Glamorgan,cardiff,1,2018,9.4
+Glamorgan,cardiff,2,2018,7.5
+Glamorgan,cardiff,3,2018,9.1
+Glamorgan,cardiff,4,2018,14
+Glamorgan,cardiff,5,2018,19
+Glamorgan,cardiff,6,2018,22.6
+Glamorgan,cardiff,7,2018,25.4
+Glamorgan,cardiff,8,2018,21.4
+Glamorgan,cardiff,9,2018,18.7
+Glamorgan,cardiff,10,2018,15.6
+Glamorgan,cardiff,11,2018,11.9
+Glamorgan,cardiff,12,2018,10.6
+Glamorgan,cardiff,1,2019,8.1
+Glamorgan,cardiff,2,2019,12.2
+Glamorgan,cardiff,3,2019,12.7
+Glamorgan,cardiff,4,2019,15
+Glamorgan,cardiff,5,2019,17.6
+Glamorgan,cardiff,6,2019,19.2
+Glamorgan,cardiff,7,2019,23.7
+Glamorgan,cardiff,8,2019,21.9
+Glamorgan,cardiff,9,2019,19.5
+Glamorgan,cardiff,10,2019,14.9
+Glamorgan,cardiff,11,2019,10.3
+Glamorgan,cardiff,2,2020,10.6
+Glamorgan,cardiff,3,2020,11.7
+Glamorgan,cardiff,4,2020,17.5
+Glamorgan,cardiff,5,2020,19.4
+Glamorgan,cardiff,6,2020,20.6
+Oxfordshire,oxford,1,1971,7.2
+Oxfordshire,oxford,2,1971,7.9
+Oxfordshire,oxford,3,1971,8.7
+Oxfordshire,oxford,4,1971,12
+Oxfordshire,oxford,5,1971,17.3
+Oxfordshire,oxford,6,1971,16.7
+Oxfordshire,oxford,7,1971,23.2
+Oxfordshire,oxford,8,1971,20.3
+Oxfordshire,oxford,9,1971,19.5
+Oxfordshire,oxford,10,1971,15.8
+Oxfordshire,oxford,11,1971,9.8
+Oxfordshire,oxford,12,1971,8.7
+Oxfordshire,oxford,1,1972,6.4
+Oxfordshire,oxford,2,1972,7
+Oxfordshire,oxford,3,1972,11.8
+Oxfordshire,oxford,4,1972,12.2
+Oxfordshire,oxford,5,1972,15.1
+Oxfordshire,oxford,6,1972,16.6
+Oxfordshire,oxford,7,1972,21
+Oxfordshire,oxford,8,1972,20.7
+Oxfordshire,oxford,9,1972,16.5
+Oxfordshire,oxford,10,1972,14.8
+Oxfordshire,oxford,11,1972,9.5
+Oxfordshire,oxford,12,1972,8.7
+Oxfordshire,oxford,1,1973,6.8
+Oxfordshire,oxford,2,1973,7.7
+Oxfordshire,oxford,3,1973,11
+Oxfordshire,oxford,4,1973,12.1
+Oxfordshire,oxford,5,1973,16.2
+Oxfordshire,oxford,6,1973,20.9
+Oxfordshire,oxford,7,1973,20.8
+Oxfordshire,oxford,8,1973,22.5
+Oxfordshire,oxford,9,1973,19.7
+Oxfordshire,oxford,10,1973,12.8
+Oxfordshire,oxford,11,1973,9.8
+Oxfordshire,oxford,12,1973,8.3
+Oxfordshire,oxford,1,1974,9.3
+Oxfordshire,oxford,2,1974,8.7
+Oxfordshire,oxford,3,1974,9.3
+Oxfordshire,oxford,4,1974,13
+Oxfordshire,oxford,5,1974,16.1
+Oxfordshire,oxford,6,1974,19.1
+Oxfordshire,oxford,7,1974,20.1
+Oxfordshire,oxford,8,1974,20.6
+Oxfordshire,oxford,9,1974,16.5
+Oxfordshire,oxford,10,1974,11
+Oxfordshire,oxford,11,1974,10.1
+Oxfordshire,oxford,12,1974,10.6
+Oxfordshire,oxford,1,1975,9.8
+Oxfordshire,oxford,2,1975,7.9
+Oxfordshire,oxford,3,1975,7.8
+Oxfordshire,oxford,4,1975,12.8
+Oxfordshire,oxford,5,1975,14.3
+Oxfordshire,oxford,6,1975,21.5
+Oxfordshire,oxford,7,1975,23.8
+Oxfordshire,oxford,8,1975,25.1
+Oxfordshire,oxford,9,1975,18.7
+Oxfordshire,oxford,10,1975,14.2
+Oxfordshire,oxford,11,1975,9.8
+Oxfordshire,oxford,12,1975,7.5
+Oxfordshire,oxford,1,1976,8.5
+Oxfordshire,oxford,2,1976,7.5
+Oxfordshire,oxford,3,1976,9
+Oxfordshire,oxford,4,1976,12.9
+Oxfordshire,oxford,5,1976,17.8
+Oxfordshire,oxford,6,1976,24.4
+Oxfordshire,oxford,7,1976,25.9
+Oxfordshire,oxford,8,1976,24.4
+Oxfordshire,oxford,9,1976,18.1
+Oxfordshire,oxford,10,1976,14.1
+Oxfordshire,oxford,11,1976,9.2
+Oxfordshire,oxford,12,1976,4.6
+Oxfordshire,oxford,1,1977,5.4
+Oxfordshire,oxford,2,1977,8.9
+Oxfordshire,oxford,3,1977,10.5
+Oxfordshire,oxford,4,1977,11.6
+Oxfordshire,oxford,5,1977,15.7
+Oxfordshire,oxford,6,1977,16.7
+Oxfordshire,oxford,7,1977,21
+Oxfordshire,oxford,8,1977,19.7
+Oxfordshire,oxford,9,1977,17.5
+Oxfordshire,oxford,10,1977,15.4
+Oxfordshire,oxford,11,1977,9.6
+Oxfordshire,oxford,12,1977,8.9
+Oxfordshire,oxford,1,1978,6.2
+Oxfordshire,oxford,2,1978,5.5
+Oxfordshire,oxford,3,1978,10.8
+Oxfordshire,oxford,4,1978,10.2
+Oxfordshire,oxford,5,1978,17
+Oxfordshire,oxford,6,1978,19.1
+Oxfordshire,oxford,7,1978,20
+Oxfordshire,oxford,8,1978,20.2
+Oxfordshire,oxford,9,1978,19.1
+Oxfordshire,oxford,10,1978,16.2
+Oxfordshire,oxford,11,1978,11.6
+Oxfordshire,oxford,12,1978,7.1
+Oxfordshire,oxford,1,1979,3.2
+Oxfordshire,oxford,2,1979,3.8
+Oxfordshire,oxford,3,1979,8.4
+Oxfordshire,oxford,4,1979,12.3
+Oxfordshire,oxford,5,1979,15.2
+Oxfordshire,oxford,6,1979,19
+Oxfordshire,oxford,7,1979,22.5
+Oxfordshire,oxford,8,1979,20.3
+Oxfordshire,oxford,9,1979,18.6
+Oxfordshire,oxford,10,1979,15.5
+Oxfordshire,oxford,11,1979,10.5
+Oxfordshire,oxford,12,1979,8.9
+Oxfordshire,oxford,1,1980,5.3
+Oxfordshire,oxford,2,1980,9.5
+Oxfordshire,oxford,3,1980,8.5
+Oxfordshire,oxford,4,1980,13.7
+Oxfordshire,oxford,5,1980,16.6
+Oxfordshire,oxford,6,1980,19
+Oxfordshire,oxford,7,1980,19.7
+Oxfordshire,oxford,8,1980,21.2
+Oxfordshire,oxford,9,1980,19.2
+Oxfordshire,oxford,10,1980,13
+Oxfordshire,oxford,11,1980,9.1
+Oxfordshire,oxford,12,1980,8.5
+Oxfordshire,oxford,1,1981,7.3
+Oxfordshire,oxford,2,1981,6.2
+Oxfordshire,oxford,3,1981,11.1
+Oxfordshire,oxford,4,1981,12
+Oxfordshire,oxford,5,1981,15.7
+Oxfordshire,oxford,6,1981,18.1
+Oxfordshire,oxford,7,1981,21.3
+Oxfordshire,oxford,8,1981,22.2
+Oxfordshire,oxford,9,1981,19.8
+Oxfordshire,oxford,10,1981,12.3
+Oxfordshire,oxford,11,1981,10.8
+Oxfordshire,oxford,12,1981,3.6
+Oxfordshire,oxford,1,1982,5.5
+Oxfordshire,oxford,2,1982,7.9
+Oxfordshire,oxford,3,1982,10.3
+Oxfordshire,oxford,4,1982,13.8
+Oxfordshire,oxford,5,1982,17.5
+Oxfordshire,oxford,6,1982,21.3
+Oxfordshire,oxford,7,1982,22
+Oxfordshire,oxford,8,1982,21.2
+Oxfordshire,oxford,9,1982,20.1
+Oxfordshire,oxford,10,1982,13.6
+Oxfordshire,oxford,11,1982,10.8
+Oxfordshire,oxford,12,1982,7.7
+Oxfordshire,oxford,1,1983,9.8
+Oxfordshire,oxford,2,1983,4.8
+Oxfordshire,oxford,3,1983,10.3
+Oxfordshire,oxford,4,1983,11.8
+Oxfordshire,oxford,5,1983,14.8
+Oxfordshire,oxford,6,1983,19.6
+Oxfordshire,oxford,7,1983,26.8
+Oxfordshire,oxford,8,1983,23.5
+Oxfordshire,oxford,9,1983,18
+Oxfordshire,oxford,10,1983,14.3
+Oxfordshire,oxford,11,1983,10.4
+Oxfordshire,oxford,12,1983,8.7
+Oxfordshire,oxford,1,1984,7.5
+Oxfordshire,oxford,2,1984,6.4
+Oxfordshire,oxford,3,1984,8.2
+Oxfordshire,oxford,4,1984,13.9
+Oxfordshire,oxford,5,1984,14.5
+Oxfordshire,oxford,6,1984,20.8
+Oxfordshire,oxford,7,1984,23.9
+Oxfordshire,oxford,8,1984,23.6
+Oxfordshire,oxford,9,1984,17.9
+Oxfordshire,oxford,10,1984,15
+Oxfordshire,oxford,11,1984,11.3
+Oxfordshire,oxford,12,1984,8.3
+Oxfordshire,oxford,1,1985,3.9
+Oxfordshire,oxford,2,1985,5.5
+Oxfordshire,oxford,3,1985,8.9
+Oxfordshire,oxford,4,1985,13.1
+Oxfordshire,oxford,5,1985,15.7
+Oxfordshire,oxford,6,1985,17.5
+Oxfordshire,oxford,7,1985,21.6
+Oxfordshire,oxford,8,1985,19
+Oxfordshire,oxford,9,1985,19.4
+Oxfordshire,oxford,10,1985,14.5
+Oxfordshire,oxford,11,1985,7.4
+Oxfordshire,oxford,12,1985,9.4
+Oxfordshire,oxford,1,1986,6.7
+Oxfordshire,oxford,2,1986,1
+Oxfordshire,oxford,3,1986,9.2
+Oxfordshire,oxford,4,1986,10.2
+Oxfordshire,oxford,5,1986,15.7
+Oxfordshire,oxford,6,1986,20.6
+Oxfordshire,oxford,7,1986,21.5
+Oxfordshire,oxford,8,1986,18.4
+Oxfordshire,oxford,9,1986,16.6
+Oxfordshire,oxford,10,1986,15.3
+Oxfordshire,oxford,11,1986,11.4
+Oxfordshire,oxford,12,1986,9.2
+Oxfordshire,oxford,1,1987,3
+Oxfordshire,oxford,2,1987,7.1
+Oxfordshire,oxford,3,1987,8.2
+Oxfordshire,oxford,4,1987,15.2
+Oxfordshire,oxford,5,1987,15.2
+Oxfordshire,oxford,6,1987,17.8
+Oxfordshire,oxford,7,1987,21.2
+Oxfordshire,oxford,8,1987,21
+Oxfordshire,oxford,9,1987,18.6
+Oxfordshire,oxford,10,1987,14
+Oxfordshire,oxford,11,1987,9
+Oxfordshire,oxford,12,1987,8
+Oxfordshire,oxford,1,1988,8.1
+Oxfordshire,oxford,2,1988,8.1
+Oxfordshire,oxford,3,1988,10.2
+Oxfordshire,oxford,4,1988,12.6
+Oxfordshire,oxford,5,1988,17.1
+Oxfordshire,oxford,6,1988,18.7
+Oxfordshire,oxford,7,1988,18.9
+Oxfordshire,oxford,8,1988,20.4
+Oxfordshire,oxford,9,1988,17.9
+Oxfordshire,oxford,10,1988,14.5
+Oxfordshire,oxford,11,1988,9.1
+Oxfordshire,oxford,12,1988,10.1
+Oxfordshire,oxford,1,1989,9.1
+Oxfordshire,oxford,2,1989,9.9
+Oxfordshire,oxford,3,1989,12
+Oxfordshire,oxford,4,1989,11
+Oxfordshire,oxford,5,1989,19.7
+Oxfordshire,oxford,6,1989,20.8
+Oxfordshire,oxford,7,1989,24.9
+Oxfordshire,oxford,8,1989,23.4
+Oxfordshire,oxford,9,1989,19.9
+Oxfordshire,oxford,10,1989,15.9
+Oxfordshire,oxford,11,1989,9.8
+Oxfordshire,oxford,12,1989,8.2
+Oxfordshire,oxford,1,1990,10
+Oxfordshire,oxford,2,1990,11.3
+Oxfordshire,oxford,3,1990,12.7
+Oxfordshire,oxford,4,1990,13.7
+Oxfordshire,oxford,5,1990,19.2
+Oxfordshire,oxford,6,1990,18.2
+Oxfordshire,oxford,7,1990,23.8
+Oxfordshire,oxford,8,1990,24.7
+Oxfordshire,oxford,9,1990,18.7
+Oxfordshire,oxford,10,1990,15.8
+Oxfordshire,oxford,11,1990,9.8
+Oxfordshire,oxford,12,1990,6.9
+Oxfordshire,oxford,1,1991,6.4
+Oxfordshire,oxford,2,1991,4.7
+Oxfordshire,oxford,3,1991,11.5
+Oxfordshire,oxford,4,1991,12.2
+Oxfordshire,oxford,5,1991,15.3
+Oxfordshire,oxford,6,1991,16.8
+Oxfordshire,oxford,7,1991,22.2
+Oxfordshire,oxford,8,1991,23.2
+Oxfordshire,oxford,9,1991,20.2
+Oxfordshire,oxford,10,1991,13.4
+Oxfordshire,oxford,11,1991,9.9
+Oxfordshire,oxford,12,1991,7
+Oxfordshire,oxford,1,1992,5.9
+Oxfordshire,oxford,2,1992,8.9
+Oxfordshire,oxford,3,1992,11
+Oxfordshire,oxford,4,1992,13.2
+Oxfordshire,oxford,5,1992,19.7
+Oxfordshire,oxford,6,1992,21.4
+Oxfordshire,oxford,7,1992,21.1
+Oxfordshire,oxford,8,1992,20.3
+Oxfordshire,oxford,9,1992,17.6
+Oxfordshire,oxford,10,1992,11.2
+Oxfordshire,oxford,11,1992,10.9
+Oxfordshire,oxford,12,1992,6.4
+Oxfordshire,oxford,1,1993,9.6
+Oxfordshire,oxford,2,1993,7.1
+Oxfordshire,oxford,3,1993,11
+Oxfordshire,oxford,4,1993,13.2
+Oxfordshire,oxford,5,1993,16.6
+Oxfordshire,oxford,6,1993,20.7
+Oxfordshire,oxford,7,1993,20.8
+Oxfordshire,oxford,8,1993,20.5
+Oxfordshire,oxford,9,1993,16.7
+Oxfordshire,oxford,10,1993,11.9
+Oxfordshire,oxford,11,1993,8
+Oxfordshire,oxford,12,1993,8.7
+Oxfordshire,oxford,1,1994,8.5
+Oxfordshire,oxford,2,1994,6.7
+Oxfordshire,oxford,3,1994,11.7
+Oxfordshire,oxford,4,1994,12.5
+Oxfordshire,oxford,5,1994,15.3
+Oxfordshire,oxford,6,1994,20.6
+Oxfordshire,oxford,7,1994,24.8
+Oxfordshire,oxford,8,1994,21.1
+Oxfordshire,oxford,9,1994,16.6
+Oxfordshire,oxford,10,1994,14.1
+Oxfordshire,oxford,11,1994,12.7
+Oxfordshire,oxford,12,1994,9.6
+Oxfordshire,oxford,1,1995,8.5
+Oxfordshire,oxford,2,1995,10.4
+Oxfordshire,oxford,3,1995,10.5
+Oxfordshire,oxford,4,1995,14.3
+Oxfordshire,oxford,5,1995,17.8
+Oxfordshire,oxford,6,1995,20
+Oxfordshire,oxford,7,1995,25.1
+Oxfordshire,oxford,8,1995,26.4
+Oxfordshire,oxford,9,1995,18.3
+Oxfordshire,oxford,10,1995,17.3
+Oxfordshire,oxford,11,1995,11.3
+Oxfordshire,oxford,12,1995,4.6
+Oxfordshire,oxford,1,1996,6.6
+Oxfordshire,oxford,2,1996,6.2
+Oxfordshire,oxford,3,1996,8.4
+Oxfordshire,oxford,4,1996,13.8
+Oxfordshire,oxford,5,1996,14.1
+Oxfordshire,oxford,6,1996,21.2
+Oxfordshire,oxford,7,1996,23.3
+Oxfordshire,oxford,8,1996,22.4
+Oxfordshire,oxford,9,1996,18.4
+Oxfordshire,oxford,10,1996,15.8
+Oxfordshire,oxford,11,1996,9.6
+Oxfordshire,oxford,12,1996,5.5
+Oxfordshire,oxford,1,1997,5.1
+Oxfordshire,oxford,2,1997,10.4
+Oxfordshire,oxford,3,1997,13.3
+Oxfordshire,oxford,4,1997,14.5
+Oxfordshire,oxford,5,1997,17.4
+Oxfordshire,oxford,6,1997,18.9
+Oxfordshire,oxford,7,1997,22.8
+Oxfordshire,oxford,8,1997,24.9
+Oxfordshire,oxford,9,1997,19.7
+Oxfordshire,oxford,10,1997,14.9
+Oxfordshire,oxford,11,1997,11.7
+Oxfordshire,oxford,12,1997,9
+Oxfordshire,oxford,1,1998,8.3
+Oxfordshire,oxford,2,1998,11.5
+Oxfordshire,oxford,3,1998,11.8
+Oxfordshire,oxford,4,1998,11.9
+Oxfordshire,oxford,5,1998,18.7
+Oxfordshire,oxford,6,1998,19.1
+Oxfordshire,oxford,7,1998,21
+Oxfordshire,oxford,8,1998,22.4
+Oxfordshire,oxford,9,1998,19.6
+Oxfordshire,oxford,10,1998,14.4
+Oxfordshire,oxford,11,1998,9.3
+Oxfordshire,oxford,12,1998,9.4
+Oxfordshire,oxford,1,1999,9
+Oxfordshire,oxford,2,1999,8.6
+Oxfordshire,oxford,3,1999,11.6
+Oxfordshire,oxford,4,1999,14.3
+Oxfordshire,oxford,5,1999,18.2
+Oxfordshire,oxford,6,1999,19.7
+Oxfordshire,oxford,7,1999,24.2
+Oxfordshire,oxford,8,1999,21.6
+Oxfordshire,oxford,9,1999,20.8
+Oxfordshire,oxford,10,1999,15.1
+Oxfordshire,oxford,11,1999,10.8
+Oxfordshire,oxford,12,1999,8.3
+Oxfordshire,oxford,1,2000,8.1
+Oxfordshire,oxford,2,2000,10.2
+Oxfordshire,oxford,3,2000,11.7
+Oxfordshire,oxford,4,2000,12.4
+Oxfordshire,oxford,5,2000,17.2
+Oxfordshire,oxford,6,2000,20.5
+Oxfordshire,oxford,7,2000,20.8
+Oxfordshire,oxford,8,2000,22.7
+Oxfordshire,oxford,9,2000,19.2
+Oxfordshire,oxford,10,2000,14.3
+Oxfordshire,oxford,11,2000,10.6
+Oxfordshire,oxford,12,2000,8.6
+Oxfordshire,oxford,1,2001,6.4
+Oxfordshire,oxford,2,2001,8.8
+Oxfordshire,oxford,3,2001,9
+Oxfordshire,oxford,4,2001,12.9
+Oxfordshire,oxford,5,2001,18.5
+Oxfordshire,oxford,6,2001,20.7
+Oxfordshire,oxford,7,2001,23.4
+Oxfordshire,oxford,8,2001,22.7
+Oxfordshire,oxford,9,2001,17.9
+Oxfordshire,oxford,10,2001,17
+Oxfordshire,oxford,11,2001,11.2
+Oxfordshire,oxford,12,2001,6.8
+Oxfordshire,oxford,1,2002,9.2
+Oxfordshire,oxford,2,2002,11.1
+Oxfordshire,oxford,3,2002,12.4
+Oxfordshire,oxford,4,2002,15.2
+Oxfordshire,oxford,5,2002,16.8
+Oxfordshire,oxford,6,2002,20
+Oxfordshire,oxford,7,2002,22.1
+Oxfordshire,oxford,8,2002,22.8
+Oxfordshire,oxford,9,2002,19.7
+Oxfordshire,oxford,10,2002,14.8
+Oxfordshire,oxford,11,2002,11.8
+Oxfordshire,oxford,12,2002,8.9
+Oxfordshire,oxford,1,2003,7.6
+Oxfordshire,oxford,2,2003,8.4
+Oxfordshire,oxford,3,2003,13.3
+Oxfordshire,oxford,4,2003,15.3
+Oxfordshire,oxford,5,2003,17.5
+Oxfordshire,oxford,6,2003,22.4
+Oxfordshire,oxford,7,2003,23.7
+Oxfordshire,oxford,8,2003,25.5
+Oxfordshire,oxford,9,2003,21.3
+Oxfordshire,oxford,10,2003,14
+Oxfordshire,oxford,11,2003,12
+Oxfordshire,oxford,12,2003,8.7
+Oxfordshire,oxford,1,2004,8.8
+Oxfordshire,oxford,2,2004,8.7
+Oxfordshire,oxford,3,2004,10.9
+Oxfordshire,oxford,4,2004,14.7
+Oxfordshire,oxford,5,2004,18
+Oxfordshire,oxford,6,2004,21.8
+Oxfordshire,oxford,7,2004,22
+Oxfordshire,oxford,8,2004,23.4
+Oxfordshire,oxford,9,2004,20.1
+Oxfordshire,oxford,10,2004,14.7
+Oxfordshire,oxford,11,2004,10.9
+Oxfordshire,oxford,12,2004,8.6
+Oxfordshire,oxford,1,2005,9.4
+Oxfordshire,oxford,2,2005,7.3
+Oxfordshire,oxford,3,2005,11.2
+Oxfordshire,oxford,4,2005,14.3
+Oxfordshire,oxford,5,2005,17.2
+Oxfordshire,oxford,6,2005,21.6
+Oxfordshire,oxford,7,2005,22.3
+Oxfordshire,oxford,8,2005,23.1
+Oxfordshire,oxford,9,2005,20.9
+Oxfordshire,oxford,10,2005,17.1
+Oxfordshire,oxford,11,2005,9.9
+Oxfordshire,oxford,12,2005,7.7
+Oxfordshire,oxford,1,2006,7.2
+Oxfordshire,oxford,2,2006,6.6
+Oxfordshire,oxford,3,2006,9.2
+Oxfordshire,oxford,4,2006,13.9
+Oxfordshire,oxford,5,2006,17.6
+Oxfordshire,oxford,6,2006,23.1
+Oxfordshire,oxford,7,2006,27.1
+Oxfordshire,oxford,8,2006,21.8
+Oxfordshire,oxford,9,2006,22.1
+Oxfordshire,oxford,10,2006,17.2
+Oxfordshire,oxford,11,2006,12.1
+Oxfordshire,oxford,12,2006,9.4
+Oxfordshire,oxford,1,2007,10.4
+Oxfordshire,oxford,2,2007,9.7
+Oxfordshire,oxford,3,2007,12
+Oxfordshire,oxford,4,2007,17.8
+Oxfordshire,oxford,5,2007,17.5
+Oxfordshire,oxford,6,2007,20.5
+Oxfordshire,oxford,7,2007,20.6
+Oxfordshire,oxford,8,2007,21.7
+Oxfordshire,oxford,9,2007,19.2
+Oxfordshire,oxford,10,2007,15.1
+Oxfordshire,oxford,11,2007,11.3
+Oxfordshire,oxford,12,2007,8.3
+Oxfordshire,oxford,1,2008,10.3
+Oxfordshire,oxford,2,2008,10.5
+Oxfordshire,oxford,3,2008,10.6
+Oxfordshire,oxford,6,2008,20.1
+Oxfordshire,oxford,7,2008,22
+Oxfordshire,oxford,8,2008,20.8
+Oxfordshire,oxford,9,2008,17.8
+Oxfordshire,oxford,10,2008,14.6
+Oxfordshire,oxford,11,2008,10.1
+Oxfordshire,oxford,12,2008,6.9
+Oxfordshire,oxford,1,2009,6.3
+Oxfordshire,oxford,2,2009,7.9
+Oxfordshire,oxford,3,2009,12.4
+Oxfordshire,oxford,4,2009,15.6
+Oxfordshire,oxford,5,2009,18.2
+Oxfordshire,oxford,6,2009,22
+Oxfordshire,oxford,7,2009,22.4
+Oxfordshire,oxford,8,2009,22.7
+Oxfordshire,oxford,9,2009,20.2
+Oxfordshire,oxford,10,2009,16.2
+Oxfordshire,oxford,11,2009,12.5
+Oxfordshire,oxford,12,2009,6.8
+Oxfordshire,oxford,1,2010,4.7
+Oxfordshire,oxford,2,2010,7.1
+Oxfordshire,oxford,3,2010,11.3
+Oxfordshire,oxford,4,2010,15.8
+Oxfordshire,oxford,5,2010,17.6
+Oxfordshire,oxford,6,2010,23
+Oxfordshire,oxford,7,2010,23.9
+Oxfordshire,oxford,8,2010,21.4
+Oxfordshire,oxford,9,2010,18.8
+Oxfordshire,oxford,10,2010,14.5
+Oxfordshire,oxford,11,2010,8.2
+Oxfordshire,oxford,12,2010,2.7
+Oxfordshire,oxford,1,2011,7
+Oxfordshire,oxford,2,2011,10.4
+Oxfordshire,oxford,3,2011,12.4
+Oxfordshire,oxford,4,2011,19.4
+Oxfordshire,oxford,5,2011,18.9
+Oxfordshire,oxford,6,2011,19.3
+Oxfordshire,oxford,7,2011,21.4
+Oxfordshire,oxford,8,2011,20.7
+Oxfordshire,oxford,9,2011,20.7
+Oxfordshire,oxford,11,2011,13.5
+Oxfordshire,oxford,12,2011,9.3
+Oxfordshire,oxford,1,2012,9.8
+Oxfordshire,oxford,2,2012,7.3
+Oxfordshire,oxford,3,2012,14
+Oxfordshire,oxford,4,2012,12.6
+Oxfordshire,oxford,5,2012,17.7
+Oxfordshire,oxford,6,2012,18.9
+Oxfordshire,oxford,10,2012,13.4
+Oxfordshire,oxford,11,2012,10.1
+Oxfordshire,oxford,12,2012,8.6
+Oxfordshire,oxford,1,2013,6.4
+Oxfordshire,oxford,2,2013,6.2
+Oxfordshire,oxford,3,2013,6.3
+Oxfordshire,oxford,4,2013,12.9
+Oxfordshire,oxford,5,2013,15.9
+Oxfordshire,oxford,6,2013,19.3
+Oxfordshire,oxford,7,2013,25.5
+Oxfordshire,oxford,8,2013,23.1
+Oxfordshire,oxford,9,2013,19
+Oxfordshire,oxford,10,2013,16.3
+Oxfordshire,oxford,11,2013,9.9
+Oxfordshire,oxford,12,2013,10
+Oxfordshire,oxford,1,2014,9.3
+Oxfordshire,oxford,2,2014,9.7
+Oxfordshire,oxford,3,2014,12.8
+Oxfordshire,oxford,6,2014,21.5
+Oxfordshire,oxford,7,2014,24.9
+Oxfordshire,oxford,8,2014,20.8
+Oxfordshire,oxford,9,2014,21.1
+Oxfordshire,oxford,10,2014,16.8
+Oxfordshire,oxford,11,2014,11.5
+Oxfordshire,oxford,12,2014,8.7
+Oxfordshire,oxford,1,2015,8.4
+Oxfordshire,oxford,2,2015,7.5
+Oxfordshire,oxford,3,2015,11.4
+Oxfordshire,oxford,4,2015,15.9
+Oxfordshire,oxford,5,2015,16.8
+Oxfordshire,oxford,6,2015,21.1
+Oxfordshire,oxford,7,2015,22.6
+Oxfordshire,oxford,8,2015,21.3
+Oxfordshire,oxford,9,2015,18.4
+Oxfordshire,oxford,10,2015,15.1
+Oxfordshire,oxford,11,2015,13.1
+Oxfordshire,oxford,12,2015,13.4
+Oxfordshire,oxford,1,2016,9.4
+Oxfordshire,oxford,2,2016,9.1
+Oxfordshire,oxford,3,2016,10.2
+Oxfordshire,oxford,4,2016,12.9
+Oxfordshire,oxford,5,2016,18.4
+Oxfordshire,oxford,6,2016,20
+Oxfordshire,oxford,7,2016,23.3
+Oxfordshire,oxford,8,2016,23.5
+Oxfordshire,oxford,9,2016,20.9
+Oxfordshire,oxford,10,2016,15.1
+Oxfordshire,oxford,11,2016,9.4
+Oxfordshire,oxford,12,2016,9.6
+Oxfordshire,oxford,1,2017,7.3
+Oxfordshire,oxford,2,2017,9.5
+Oxfordshire,oxford,3,2017,13.7
+Oxfordshire,oxford,4,2017,15.1
+Oxfordshire,oxford,5,2017,19
+Oxfordshire,oxford,6,2017,22.7
+Oxfordshire,oxford,7,2017,23.3
+Oxfordshire,oxford,8,2017,21.4
+Oxfordshire,oxford,9,2017,18.5
+Oxfordshire,oxford,11,2017,10.7
+Oxfordshire,oxford,12,2017,8.3
+Oxfordshire,oxford,1,2018,8.9
+Oxfordshire,oxford,2,2018,6.4
+Oxfordshire,oxford,3,2018,9.1
+Oxfordshire,oxford,4,2018,14.2
+Oxfordshire,oxford,5,2018,19.9
+Oxfordshire,oxford,6,2018,22.8
+Oxfordshire,oxford,7,2018,27.4
+Oxfordshire,oxford,8,2018,23.4
+Oxfordshire,oxford,9,2018,20.4
+Oxfordshire,oxford,10,2018,15.6
+Oxfordshire,oxford,11,2018,11.7
+Oxfordshire,oxford,12,2018,10.2
+Oxfordshire,oxford,4,2019,15.1
+Oxfordshire,oxford,8,2019,23.9
+Oxfordshire,oxford,9,2019,20.8
+Oxfordshire,oxford,10,2019,14.6
+Oxfordshire,oxford,11,2019,9.8
+Oxfordshire,oxford,3,2020,11.5
+Oxfordshire,oxford,4,2020,18.1
+South Yorkshire,sheffield,1,1971,6.6
+South Yorkshire,sheffield,2,1971,7.6
+South Yorkshire,sheffield,3,1971,8.1
+South Yorkshire,sheffield,4,1971,11.1
+South Yorkshire,sheffield,5,1971,16.4
+South Yorkshire,sheffield,6,1971,15.6
+South Yorkshire,sheffield,7,1971,22.1
+South Yorkshire,sheffield,8,1971,19.4
+South Yorkshire,sheffield,9,1971,18.8
+South Yorkshire,sheffield,10,1971,15.3
+South Yorkshire,sheffield,11,1971,9.1
+South Yorkshire,sheffield,12,1971,8.8
+South Yorkshire,sheffield,1,1972,5.7
+South Yorkshire,sheffield,2,1972,5.8
+South Yorkshire,sheffield,3,1972,9.9
+South Yorkshire,sheffield,4,1972,11.5
+South Yorkshire,sheffield,5,1972,14.4
+South Yorkshire,sheffield,6,1972,15.8
+South Yorkshire,sheffield,7,1972,19.5
+South Yorkshire,sheffield,8,1972,19.3
+South Yorkshire,sheffield,9,1972,15.1
+South Yorkshire,sheffield,10,1972,13.5
+South Yorkshire,sheffield,11,1972,9.2
+South Yorkshire,sheffield,12,1972,7.6
+South Yorkshire,sheffield,1,1973,6.7
+South Yorkshire,sheffield,2,1973,7.4
+South Yorkshire,sheffield,3,1973,10.6
+South Yorkshire,sheffield,4,1973,10.6
+South Yorkshire,sheffield,5,1973,15.5
+South Yorkshire,sheffield,6,1973,20
+South Yorkshire,sheffield,7,1973,19.7
+South Yorkshire,sheffield,8,1973,20.7
+South Yorkshire,sheffield,9,1973,18
+South Yorkshire,sheffield,10,1973,12.2
+South Yorkshire,sheffield,11,1973,8.6
+South Yorkshire,sheffield,12,1973,7.3
+South Yorkshire,sheffield,1,1974,8.1
+South Yorkshire,sheffield,2,1974,8
+South Yorkshire,sheffield,3,1974,8.5
+South Yorkshire,sheffield,4,1974,11.6
+South Yorkshire,sheffield,5,1974,15.7
+South Yorkshire,sheffield,6,1974,17.7
+South Yorkshire,sheffield,7,1974,18.7
+South Yorkshire,sheffield,8,1974,19.5
+South Yorkshire,sheffield,9,1974,15.7
+South Yorkshire,sheffield,10,1974,10
+South Yorkshire,sheffield,11,1974,8.7
+South Yorkshire,sheffield,12,1974,9.9
+South Yorkshire,sheffield,1,1975,8.9
+South Yorkshire,sheffield,2,1975,6.5
+South Yorkshire,sheffield,3,1975,7
+South Yorkshire,sheffield,4,1975,12.2
+South Yorkshire,sheffield,5,1975,13.8
+South Yorkshire,sheffield,6,1975,20.1
+South Yorkshire,sheffield,7,1975,21.7
+South Yorkshire,sheffield,8,1975,24.6
+South Yorkshire,sheffield,9,1975,17.3
+South Yorkshire,sheffield,10,1975,13.4
+South Yorkshire,sheffield,11,1975,8.8
+South Yorkshire,sheffield,12,1975,8.2
+South Yorkshire,sheffield,1,1976,7.6
+South Yorkshire,sheffield,2,1976,6.7
+South Yorkshire,sheffield,3,1976,7.8
+South Yorkshire,sheffield,4,1976,11.7
+South Yorkshire,sheffield,5,1976,15.8
+South Yorkshire,sheffield,6,1976,22.3
+South Yorkshire,sheffield,7,1976,24
+South Yorkshire,sheffield,8,1976,23
+South Yorkshire,sheffield,9,1976,16.4
+South Yorkshire,sheffield,10,1976,13
+South Yorkshire,sheffield,11,1976,8.6
+South Yorkshire,sheffield,12,1976,3.7
+South Yorkshire,sheffield,1,1977,4.6
+South Yorkshire,sheffield,2,1977,6.3
+South Yorkshire,sheffield,3,1977,9.5
+South Yorkshire,sheffield,4,1977,10.6
+South Yorkshire,sheffield,5,1977,14.6
+South Yorkshire,sheffield,6,1977,16.4
+South Yorkshire,sheffield,7,1977,19.6
+South Yorkshire,sheffield,8,1977,19.4
+South Yorkshire,sheffield,9,1977,16.6
+South Yorkshire,sheffield,10,1977,14
+South Yorkshire,sheffield,11,1977,8.4
+South Yorkshire,sheffield,12,1977,7.5
+South Yorkshire,sheffield,1,1978,5.3
+South Yorkshire,sheffield,2,1978,4.4
+South Yorkshire,sheffield,3,1978,10.1
+South Yorkshire,sheffield,4,1978,9.4
+South Yorkshire,sheffield,5,1978,16.1
+South Yorkshire,sheffield,6,1978,17.4
+South Yorkshire,sheffield,7,1978,18.3
+South Yorkshire,sheffield,8,1978,18.6
+South Yorkshire,sheffield,9,1978,17.2
+South Yorkshire,sheffield,10,1978,15.3
+South Yorkshire,sheffield,11,1978,11.3
+South Yorkshire,sheffield,12,1978,5
+South Yorkshire,sheffield,1,1979,2.5
+South Yorkshire,sheffield,2,1979,2.6
+South Yorkshire,sheffield,3,1979,6.9
+South Yorkshire,sheffield,4,1979,11
+South Yorkshire,sheffield,5,1979,14.4
+South Yorkshire,sheffield,6,1979,19.1
+South Yorkshire,sheffield,7,1979,20.4
+South Yorkshire,sheffield,8,1979,19.1
+South Yorkshire,sheffield,9,1979,17.6
+South Yorkshire,sheffield,10,1979,14.2
+South Yorkshire,sheffield,11,1979,9.6
+South Yorkshire,sheffield,12,1979,7.4
+South Yorkshire,sheffield,1,1980,4.4
+South Yorkshire,sheffield,2,1980,7.8
+South Yorkshire,sheffield,3,1980,7.4
+South Yorkshire,sheffield,4,1980,13.4
+South Yorkshire,sheffield,5,1980,16
+South Yorkshire,sheffield,6,1980,17.9
+South Yorkshire,sheffield,7,1980,18.5
+South Yorkshire,sheffield,8,1980,19.8
+South Yorkshire,sheffield,9,1980,18.6
+South Yorkshire,sheffield,10,1980,11.9
+South Yorkshire,sheffield,11,1980,8.7
+South Yorkshire,sheffield,12,1980,8.4
+South Yorkshire,sheffield,1,1981,7.5
+South Yorkshire,sheffield,2,1981,5.3
+South Yorkshire,sheffield,3,1981,10.1
+South Yorkshire,sheffield,4,1981,10.6
+South Yorkshire,sheffield,5,1981,15.6
+South Yorkshire,sheffield,6,1981,17.3
+South Yorkshire,sheffield,7,1981,19.6
+South Yorkshire,sheffield,8,1981,20.5
+South Yorkshire,sheffield,9,1981,19.2
+South Yorkshire,sheffield,10,1981,11.4
+South Yorkshire,sheffield,11,1981,10.4
+South Yorkshire,sheffield,12,1981,2.6
+South Yorkshire,sheffield,1,1982,5.9
+South Yorkshire,sheffield,2,1982,7.4
+South Yorkshire,sheffield,3,1982,9.7
+South Yorkshire,sheffield,4,1982,13.5
+South Yorkshire,sheffield,5,1982,17.1
+South Yorkshire,sheffield,6,1982,18.9
+South Yorkshire,sheffield,7,1982,20.9
+South Yorkshire,sheffield,8,1982,19.6
+South Yorkshire,sheffield,9,1982,18.7
+South Yorkshire,sheffield,10,1982,13.1
+South Yorkshire,sheffield,11,1982,10
+South Yorkshire,sheffield,12,1982,6.9
+South Yorkshire,sheffield,1,1983,9
+South Yorkshire,sheffield,2,1983,3.5
+South Yorkshire,sheffield,3,1983,9.3
+South Yorkshire,sheffield,4,1983,10.1
+South Yorkshire,sheffield,5,1983,13.6
+South Yorkshire,sheffield,6,1983,18
+South Yorkshire,sheffield,7,1983,24.5
+South Yorkshire,sheffield,8,1983,22.1
+South Yorkshire,sheffield,9,1983,16.8
+South Yorkshire,sheffield,10,1983,13.6
+South Yorkshire,sheffield,11,1983,9.9
+South Yorkshire,sheffield,12,1983,8.2
+South Yorkshire,sheffield,1,1984,5.6
+South Yorkshire,sheffield,2,1984,5.8
+South Yorkshire,sheffield,3,1984,7.3
+South Yorkshire,sheffield,4,1984,13.3
+South Yorkshire,sheffield,5,1984,14.9
+South Yorkshire,sheffield,6,1984,19.1
+South Yorkshire,sheffield,7,1984,22.4
+South Yorkshire,sheffield,8,1984,22.5
+South Yorkshire,sheffield,9,1984,16.7
+South Yorkshire,sheffield,10,1984,14.3
+South Yorkshire,sheffield,11,1984,9.8
+South Yorkshire,sheffield,12,1984,7.3
+South Yorkshire,sheffield,1,1985,3.7
+South Yorkshire,sheffield,2,1985,5.7
+South Yorkshire,sheffield,3,1985,8.2
+South Yorkshire,sheffield,4,1985,11.6
+South Yorkshire,sheffield,5,1985,14.4
+South Yorkshire,sheffield,6,1985,16.8
+South Yorkshire,sheffield,7,1985,20.4
+South Yorkshire,sheffield,8,1985,18.4
+South Yorkshire,sheffield,9,1985,18.8
+South Yorkshire,sheffield,10,1985,14.4
+South Yorkshire,sheffield,11,1985,6.6
+South Yorkshire,sheffield,12,1985,8.2
+South Yorkshire,sheffield,1,1986,5.4
+South Yorkshire,sheffield,2,1986,1
+South Yorkshire,sheffield,3,1986,8.2
+South Yorkshire,sheffield,4,1986,9
+South Yorkshire,sheffield,5,1986,16
+South Yorkshire,sheffield,6,1986,19.3
+South Yorkshire,sheffield,7,1986,20
+South Yorkshire,sheffield,8,1986,17.1
+South Yorkshire,sheffield,9,1986,16.1
+South Yorkshire,sheffield,10,1986,14.3
+South Yorkshire,sheffield,11,1986,10.6
+South Yorkshire,sheffield,12,1986,8.5
+South Yorkshire,sheffield,1,1987,3.4
+South Yorkshire,sheffield,2,1987,6.7
+South Yorkshire,sheffield,3,1987,7.3
+South Yorkshire,sheffield,4,1987,14.6
+South Yorkshire,sheffield,5,1987,14.6
+South Yorkshire,sheffield,6,1987,16.5
+South Yorkshire,sheffield,7,1987,19.8
+South Yorkshire,sheffield,8,1987,19.7
+South Yorkshire,sheffield,9,1987,17.4
+South Yorkshire,sheffield,10,1987,12.5
+South Yorkshire,sheffield,11,1987,8.5
+South Yorkshire,sheffield,12,1987,7.9
+South Yorkshire,sheffield,1,1988,7.2
+South Yorkshire,sheffield,2,1988,7.3
+South Yorkshire,sheffield,3,1988,9.3
+South Yorkshire,sheffield,4,1988,11.6
+South Yorkshire,sheffield,5,1988,16.2
+South Yorkshire,sheffield,6,1988,18.9
+South Yorkshire,sheffield,7,1988,18.6
+South Yorkshire,sheffield,8,1988,19.5
+South Yorkshire,sheffield,9,1988,16.5
+South Yorkshire,sheffield,10,1988,13
+South Yorkshire,sheffield,11,1988,9
+South Yorkshire,sheffield,12,1988,9.8
+South Yorkshire,sheffield,1,1989,9
+South Yorkshire,sheffield,2,1989,9.1
+South Yorkshire,sheffield,3,1989,11
+South Yorkshire,sheffield,4,1989,9.6
+South Yorkshire,sheffield,5,1989,18.4
+South Yorkshire,sheffield,6,1989,20.2
+South Yorkshire,sheffield,7,1989,22.9
+South Yorkshire,sheffield,8,1989,21.1
+South Yorkshire,sheffield,9,1989,18.5
+South Yorkshire,sheffield,10,1989,14.9
+South Yorkshire,sheffield,11,1989,9
+South Yorkshire,sheffield,12,1989,6.7
+South Yorkshire,sheffield,1,1990,8.9
+South Yorkshire,sheffield,2,1990,9.7
+South Yorkshire,sheffield,3,1990,12.4
+South Yorkshire,sheffield,4,1990,13.1
+South Yorkshire,sheffield,5,1990,18.1
+South Yorkshire,sheffield,6,1990,17.6
+South Yorkshire,sheffield,7,1990,22.1
+South Yorkshire,sheffield,8,1990,23.1
+South Yorkshire,sheffield,9,1990,16.7
+South Yorkshire,sheffield,10,1990,14.4
+South Yorkshire,sheffield,11,1990,8.8
+South Yorkshire,sheffield,12,1990,6.7
+South Yorkshire,sheffield,1,1991,5.5
+South Yorkshire,sheffield,2,1991,4.8
+South Yorkshire,sheffield,3,1991,10.7
+South Yorkshire,sheffield,4,1991,11.4
+South Yorkshire,sheffield,5,1991,14.6
+South Yorkshire,sheffield,6,1991,15.8
+South Yorkshire,sheffield,7,1991,22.2
+South Yorkshire,sheffield,8,1991,21.9
+South Yorkshire,sheffield,9,1991,19.4
+South Yorkshire,sheffield,10,1991,12.9
+South Yorkshire,sheffield,11,1991,9.2
+South Yorkshire,sheffield,12,1991,7.9
+South Yorkshire,sheffield,1,1992,6.5
+South Yorkshire,sheffield,2,1992,8.9
+South Yorkshire,sheffield,3,1992,10.3
+South Yorkshire,sheffield,4,1992,12.3
+South Yorkshire,sheffield,5,1992,18.7
+South Yorkshire,sheffield,6,1992,20.5
+South Yorkshire,sheffield,7,1992,19.8
+South Yorkshire,sheffield,8,1992,19.2
+South Yorkshire,sheffield,9,1992,16.3
+South Yorkshire,sheffield,10,1992,10.2
+South Yorkshire,sheffield,11,1992,10.2
+South Yorkshire,sheffield,12,1992,6.3
+South Yorkshire,sheffield,1,1993,8.4
+South Yorkshire,sheffield,2,1993,7.5
+South Yorkshire,sheffield,3,1993,10.3
+South Yorkshire,sheffield,4,1993,13
+South Yorkshire,sheffield,5,1993,15.5
+South Yorkshire,sheffield,6,1993,19.4
+South Yorkshire,sheffield,7,1993,19
+South Yorkshire,sheffield,8,1993,18.4
+South Yorkshire,sheffield,10,1993,10.7
+South Yorkshire,sheffield,11,1993,6.3
+South Yorkshire,sheffield,12,1993,7.1
+South Yorkshire,sheffield,1,1994,7.2
+South Yorkshire,sheffield,2,1994,4.9
+South Yorkshire,sheffield,3,1994,10.6
+South Yorkshire,sheffield,4,1994,12
+South Yorkshire,sheffield,5,1994,13.9
+South Yorkshire,sheffield,6,1994,19.2
+South Yorkshire,sheffield,7,1994,23.3
+South Yorkshire,sheffield,8,1994,19.7
+South Yorkshire,sheffield,9,1994,15.4
+South Yorkshire,sheffield,10,1994,12.7
+South Yorkshire,sheffield,11,1994,11.7
+South Yorkshire,sheffield,12,1994,9
+South Yorkshire,sheffield,1,1995,6.4
+South Yorkshire,sheffield,2,1995,9
+South Yorkshire,sheffield,3,1995,8.9
+South Yorkshire,sheffield,4,1995,13.2
+South Yorkshire,sheffield,5,1995,16.7
+South Yorkshire,sheffield,6,1995,18.4
+South Yorkshire,sheffield,7,1995,23.8
+South Yorkshire,sheffield,8,1995,24.4
+South Yorkshire,sheffield,9,1995,17.1
+South Yorkshire,sheffield,10,1995,16.1
+South Yorkshire,sheffield,11,1995,9.9
+South Yorkshire,sheffield,12,1995,3.8
+South Yorkshire,sheffield,1,1996,5
+South Yorkshire,sheffield,2,1996,5
+South Yorkshire,sheffield,3,1996,5.9
+South Yorkshire,sheffield,4,1996,12.8
+South Yorkshire,sheffield,5,1996,13
+South Yorkshire,sheffield,6,1996,19.3
+South Yorkshire,sheffield,7,1996,21.5
+South Yorkshire,sheffield,8,1996,21.5
+South Yorkshire,sheffield,9,1996,16.8
+South Yorkshire,sheffield,10,1996,14.4
+South Yorkshire,sheffield,11,1996,8.2
+South Yorkshire,sheffield,12,1996,5
+South Yorkshire,sheffield,1,1997,5.2
+South Yorkshire,sheffield,2,1997,9.5
+South Yorkshire,sheffield,3,1997,12.1
+South Yorkshire,sheffield,4,1997,13.2
+South Yorkshire,sheffield,5,1997,16.3
+South Yorkshire,sheffield,6,1997,17.6
+South Yorkshire,sheffield,7,1997,21.7
+South Yorkshire,sheffield,8,1997,23.3
+South Yorkshire,sheffield,9,1997,17.3
+South Yorkshire,sheffield,10,1997,13
+South Yorkshire,sheffield,11,1997,10.4
+South Yorkshire,sheffield,12,1997,8.2
+South Yorkshire,sheffield,1,1998,7.1
+South Yorkshire,sheffield,2,1998,11.2
+South Yorkshire,sheffield,3,1998,11.2
+South Yorkshire,sheffield,4,1998,10.9
+South Yorkshire,sheffield,5,1998,17
+South Yorkshire,sheffield,6,1998,17.5
+South Yorkshire,sheffield,7,1998,19.2
+South Yorkshire,sheffield,8,1998,20.1
+South Yorkshire,sheffield,9,1998,17.7
+South Yorkshire,sheffield,10,1998,13
+South Yorkshire,sheffield,11,1998,8.4
+South Yorkshire,sheffield,12,1998,8.3
+South Yorkshire,sheffield,1,1999,8.1
+South Yorkshire,sheffield,2,1999,8
+South Yorkshire,sheffield,3,1999,10.7
+South Yorkshire,sheffield,4,1999,13.4
+South Yorkshire,sheffield,5,1999,17.5
+South Yorkshire,sheffield,6,1999,18.3
+South Yorkshire,sheffield,7,1999,22.5
+South Yorkshire,sheffield,8,1999,19.9
+South Yorkshire,sheffield,9,1999,20.2
+South Yorkshire,sheffield,10,1999,13.8
+South Yorkshire,sheffield,11,1999,10.1
+South Yorkshire,sheffield,12,1999,7.1
+South Yorkshire,sheffield,1,2000,7.8
+South Yorkshire,sheffield,2,2000,8.9
+South Yorkshire,sheffield,3,2000,10.9
+South Yorkshire,sheffield,4,2000,11.7
+South Yorkshire,sheffield,5,2000,16.4
+South Yorkshire,sheffield,6,2000,19
+South Yorkshire,sheffield,7,2000,18.8
+South Yorkshire,sheffield,8,2000,21.2
+South Yorkshire,sheffield,9,2000,18.1
+South Yorkshire,sheffield,10,2000,13.1
+South Yorkshire,sheffield,11,2000,9.1
+South Yorkshire,sheffield,12,2000,7
+South Yorkshire,sheffield,1,2001,5.3
+South Yorkshire,sheffield,2,2001,7.7
+South Yorkshire,sheffield,3,2001,8
+South Yorkshire,sheffield,4,2001,11.3
+South Yorkshire,sheffield,5,2001,17.8
+South Yorkshire,sheffield,6,2001,18.4
+South Yorkshire,sheffield,7,2001,21.4
+South Yorkshire,sheffield,8,2001,20.9
+South Yorkshire,sheffield,9,2001,15.8
+South Yorkshire,sheffield,10,2001,15.9
+South Yorkshire,sheffield,12,2001,6.3
+South Yorkshire,sheffield,1,2002,8.2
+South Yorkshire,sheffield,2,2002,9.8
+South Yorkshire,sheffield,3,2002,11.1
+South Yorkshire,sheffield,4,2002,13.9
+South Yorkshire,sheffield,5,2002,16.3
+South Yorkshire,sheffield,6,2002,19.1
+South Yorkshire,sheffield,7,2002,20.1
+South Yorkshire,sheffield,8,2002,21.2
+South Yorkshire,sheffield,9,2002,17.8
+South Yorkshire,sheffield,10,2002,12.6
+South Yorkshire,sheffield,11,2002,10
+South Yorkshire,sheffield,12,2002,6.4
+South Yorkshire,sheffield,1,2003,6.9
+South Yorkshire,sheffield,2,2003,6.6
+South Yorkshire,sheffield,3,2003,12
+South Yorkshire,sheffield,4,2003,14.7
+South Yorkshire,sheffield,5,2003,16.8
+South Yorkshire,sheffield,6,2003,21
+South Yorkshire,sheffield,7,2003,21.9
+South Yorkshire,sheffield,8,2003,22.4
+South Yorkshire,sheffield,9,2003,19.2
+South Yorkshire,sheffield,10,2003,12.6
+South Yorkshire,sheffield,11,2003,10.7
+South Yorkshire,sheffield,12,2003,7.5
+South Yorkshire,sheffield,1,2004,7.4
+South Yorkshire,sheffield,2,2004,8.1
+South Yorkshire,sheffield,3,2004,9.9
+South Yorkshire,sheffield,4,2004,13.5
+South Yorkshire,sheffield,5,2004,16.9
+South Yorkshire,sheffield,6,2004,20
+South Yorkshire,sheffield,7,2004,19.9
+South Yorkshire,sheffield,8,2004,21.3
+South Yorkshire,sheffield,9,2004,18.1
+South Yorkshire,sheffield,10,2004,13.1
+South Yorkshire,sheffield,11,2004,10.2
+South Yorkshire,sheffield,12,2004,8.3
+South Yorkshire,sheffield,1,2005,8.5
+South Yorkshire,sheffield,2,2005,6.7
+South Yorkshire,sheffield,3,2005,9.7
+South Yorkshire,sheffield,4,2005,12.9
+South Yorkshire,sheffield,5,2005,15.8
+South Yorkshire,sheffield,6,2005,20.3
+South Yorkshire,sheffield,7,2005,20.6
+South Yorkshire,sheffield,8,2005,20.7
+South Yorkshire,sheffield,9,2005,18.9
+South Yorkshire,sheffield,10,2005,15.3
+South Yorkshire,sheffield,11,2005,9.5
+South Yorkshire,sheffield,12,2005,7.3
+South Yorkshire,sheffield,1,2006,6.4
+South Yorkshire,sheffield,2,2006,6.3
+South Yorkshire,sheffield,3,2006,7.7
+South Yorkshire,sheffield,4,2006,11.8
+South Yorkshire,sheffield,5,2006,15.8
+South Yorkshire,sheffield,6,2006,21.6
+South Yorkshire,sheffield,7,2006,25.6
+South Yorkshire,sheffield,8,2006,19.6
+South Yorkshire,sheffield,9,2006,20.5
+South Yorkshire,sheffield,10,2006,15.5
+South Yorkshire,sheffield,11,2006,11.2
+South Yorkshire,sheffield,12,2006,8.8
+South Yorkshire,sheffield,1,2007,9.6
+South Yorkshire,sheffield,2,2007,8.6
+South Yorkshire,sheffield,3,2007,10.2
+South Yorkshire,sheffield,4,2007,15.8
+South Yorkshire,sheffield,5,2007,15.6
+South Yorkshire,sheffield,6,2007,18.6
+South Yorkshire,sheffield,7,2007,18.8
+South Yorkshire,sheffield,8,2007,19.7
+South Yorkshire,sheffield,9,2007,17.6
+South Yorkshire,sheffield,10,2007,14
+South Yorkshire,sheffield,11,2007,10.3
+South Yorkshire,sheffield,12,2007,7.2
+South Yorkshire,sheffield,1,2008,9
+South Yorkshire,sheffield,2,2008,9.1
+South Yorkshire,sheffield,3,2008,9.1
+South Yorkshire,sheffield,4,2008,11.4
+South Yorkshire,sheffield,5,2008,17.5
+South Yorkshire,sheffield,6,2008,18.7
+South Yorkshire,sheffield,7,2008,20.8
+South Yorkshire,sheffield,8,2008,20.1
+South Yorkshire,sheffield,10,2008,12.8
+South Yorkshire,sheffield,11,2008,9
+South Yorkshire,sheffield,12,2008,6.1
+South Yorkshire,sheffield,1,2009,5.7
+South Yorkshire,sheffield,2,2009,6.7
+South Yorkshire,sheffield,3,2009,10.9
+South Yorkshire,sheffield,4,2009,14.6
+South Yorkshire,sheffield,5,2009,16.4
+South Yorkshire,sheffield,6,2009,19.2
+South Yorkshire,sheffield,7,2009,20.4
+South Yorkshire,sheffield,8,2009,21
+South Yorkshire,sheffield,9,2009,18
+South Yorkshire,sheffield,10,2009,14.4
+South Yorkshire,sheffield,11,2009,10.4
+South Yorkshire,sheffield,12,2009,5.2
+South Yorkshire,sheffield,1,2010,3.4
+South Yorkshire,sheffield,2,2010,4.4
+South Yorkshire,sheffield,3,2010,9.9
+South Yorkshire,sheffield,4,2010,13.8
+South Yorkshire,sheffield,5,2010,15.2
+South Yorkshire,sheffield,6,2010,20.4
+South Yorkshire,sheffield,7,2010,21
+South Yorkshire,sheffield,8,2010,19.5
+South Yorkshire,sheffield,9,2010,17.8
+South Yorkshire,sheffield,10,2010,13.3
+South Yorkshire,sheffield,11,2010,7.4
+South Yorkshire,sheffield,12,2010,2.7
+South Yorkshire,sheffield,1,2011,6.4
+South Yorkshire,sheffield,2,2011,8.8
+South Yorkshire,sheffield,3,2011,10.9
+South Yorkshire,sheffield,4,2011,17.1
+South Yorkshire,sheffield,5,2011,16.7
+South Yorkshire,sheffield,6,2011,19.4
+South Yorkshire,sheffield,7,2011,20.3
+South Yorkshire,sheffield,8,2011,20.1
+South Yorkshire,sheffield,9,2011,19.5
+South Yorkshire,sheffield,10,2011,15.9
+South Yorkshire,sheffield,11,2011,11.7
+South Yorkshire,sheffield,12,2011,8.1
+South Yorkshire,sheffield,1,2012,7.9
+South Yorkshire,sheffield,2,2012,7.6
+South Yorkshire,sheffield,3,2012,13.6
+South Yorkshire,sheffield,4,2012,10.7
+South Yorkshire,sheffield,5,2012,16.4
+South Yorkshire,sheffield,6,2012,17.3
+South Yorkshire,sheffield,7,2012,19.5
+South Yorkshire,sheffield,8,2012,20.9
+South Yorkshire,sheffield,9,2012,17.1
+South Yorkshire,sheffield,10,2012,12.2
+South Yorkshire,sheffield,11,2012,9.2
+South Yorkshire,sheffield,12,2012,7
+South Yorkshire,sheffield,1,2013,5.7
+South Yorkshire,sheffield,2,2013,5.2
+South Yorkshire,sheffield,3,2013,4.5
+South Yorkshire,sheffield,4,2013,11.9
+South Yorkshire,sheffield,5,2013,15.5
+South Yorkshire,sheffield,6,2013,18.8
+South Yorkshire,sheffield,7,2013,24
+South Yorkshire,sheffield,8,2013,21.6
+South Yorkshire,sheffield,9,2013,17.5
+South Yorkshire,sheffield,10,2013,14.9
+South Yorkshire,sheffield,11,2013,9.1
+South Yorkshire,sheffield,12,2013,9.1
+South Yorkshire,sheffield,1,2014,7.8
+South Yorkshire,sheffield,2,2014,8.5
+South Yorkshire,sheffield,3,2014,11.6
+South Yorkshire,sheffield,4,2014,14.2
+South Yorkshire,sheffield,5,2014,16.6
+South Yorkshire,sheffield,6,2014,19.4
+South Yorkshire,sheffield,7,2014,23.2
+South Yorkshire,sheffield,8,2014,19.3
+South Yorkshire,sheffield,9,2014,18.4
+South Yorkshire,sheffield,10,2014,14.9
+South Yorkshire,sheffield,11,2014,10.5
+South Yorkshire,sheffield,12,2014,7.7
+South Yorkshire,sheffield,1,2015,6.9
+South Yorkshire,sheffield,2,2015,6.9
+South Yorkshire,sheffield,3,2015,9.8
+South Yorkshire,sheffield,4,2015,14.3
+South Yorkshire,sheffield,5,2015,14.8
+South Yorkshire,sheffield,6,2015,19.1
+South Yorkshire,sheffield,7,2015,20.8
+South Yorkshire,sheffield,8,2015,20.6
+South Yorkshire,sheffield,9,2015,16.9
+South Yorkshire,sheffield,10,2015,13.9
+South Yorkshire,sheffield,11,2015,12.2
+South Yorkshire,sheffield,12,2015,12
+South Yorkshire,sheffield,1,2016,8
+South Yorkshire,sheffield,2,2016,7.8
+South Yorkshire,sheffield,3,2016,9.1
+South Yorkshire,sheffield,4,2016,11.6
+South Yorkshire,sheffield,5,2016,16.9
+South Yorkshire,sheffield,6,2016,18.8
+South Yorkshire,sheffield,7,2016,21.3
+South Yorkshire,sheffield,8,2016,21
+South Yorkshire,sheffield,9,2016,19.9
+South Yorkshire,sheffield,10,2016,13.7
+South Yorkshire,sheffield,11,2016,8.4
+South Yorkshire,sheffield,12,2016,9.3
+South Yorkshire,sheffield,1,2017,6.7
+South Yorkshire,sheffield,2,2017,8.1
+South Yorkshire,sheffield,3,2017,12.3
+South Yorkshire,sheffield,4,2017,13.4
+South Yorkshire,sheffield,5,2017,17.9
+South Yorkshire,sheffield,6,2017,20.3
+South Yorkshire,sheffield,7,2017,21.2
+South Yorkshire,sheffield,8,2017,19.9
+South Yorkshire,sheffield,9,2017,17.3
+South Yorkshire,sheffield,10,2017,15.2
+South Yorkshire,sheffield,11,2017,9.7
+South Yorkshire,sheffield,12,2017,7.4
+South Yorkshire,sheffield,1,2018,7.2
+South Yorkshire,sheffield,2,2018,5.3
+South Yorkshire,sheffield,3,2018,7.5
+South Yorkshire,sheffield,4,2018,13.2
+South Yorkshire,sheffield,5,2018,19.4
+South Yorkshire,sheffield,6,2018,21.5
+South Yorkshire,sheffield,7,2018,25.4
+South Yorkshire,sheffield,8,2018,21.8
+South Yorkshire,sheffield,9,2018,18
+South Yorkshire,sheffield,10,2018,14.3
+South Yorkshire,sheffield,11,2018,10.3
+South Yorkshire,sheffield,12,2018,8.8
+South Yorkshire,sheffield,1,2019,6.6
+South Yorkshire,sheffield,2,2019,11.2
+South Yorkshire,sheffield,3,2019,11.5
+South Yorkshire,sheffield,4,2019,14.1
+South Yorkshire,sheffield,5,2019,16.1
+South Yorkshire,sheffield,6,2019,18.6
+South Yorkshire,sheffield,7,2019,22.7
+South Yorkshire,sheffield,8,2019,22
+South Yorkshire,sheffield,9,2019,18.1
+South Yorkshire,sheffield,10,2019,12.6
+South Yorkshire,sheffield,11,2019,7.9
+South Yorkshire,sheffield,12,2019,8.2
+South Yorkshire,sheffield,1,2020,9.2
+South Yorkshire,sheffield,2,2020,8.9
+South Yorkshire,sheffield,3,2020,10.6
+South Yorkshire,sheffield,4,2020,15.6
+South Yorkshire,sheffield,5,2020,18.4
+South Yorkshire,sheffield,6,2020,19.4
+Hampshire,southampton,1,1971,8.1
+Hampshire,southampton,2,1971,8.7
+Hampshire,southampton,3,1971,9.2
+Hampshire,southampton,4,1971,12.8
+Hampshire,southampton,5,1971,17.5
+Hampshire,southampton,6,1971,17.8
+Hampshire,southampton,7,1971,23.3
+Hampshire,southampton,8,1971,20.5
+Hampshire,southampton,9,1971,20.7
+Hampshire,southampton,10,1971,16.8
+Hampshire,southampton,11,1971,10.9
+Hampshire,southampton,12,1971,9.5
+Hampshire,southampton,1,1972,7.5
+Hampshire,southampton,2,1972,8.3
+Hampshire,southampton,3,1972,12.2
+Hampshire,southampton,4,1972,13.4
+Hampshire,southampton,5,1972,14.8
+Hampshire,southampton,6,1972,15.7
+Hampshire,southampton,7,1972,21
+Hampshire,southampton,8,1972,21.6
+Hampshire,southampton,9,1972,18
+Hampshire,southampton,10,1972,15.6
+Hampshire,southampton,11,1972,10.6
+Hampshire,southampton,12,1972,10
+Hampshire,southampton,1,1973,8
+Hampshire,southampton,2,1973,8.6
+Hampshire,southampton,3,1973,11.4
+Hampshire,southampton,4,1973,13
+Hampshire,southampton,5,1973,16.3
+Hampshire,southampton,6,1973,21
+Hampshire,southampton,7,1973,21.6
+Hampshire,southampton,9,1973,20.5
+Hampshire,southampton,10,1973,14.4
+Hampshire,southampton,11,1973,11.2
+Hampshire,southampton,12,1973,9.3
+Hampshire,southampton,1,1974,9.8
+Hampshire,southampton,2,1974,9.7
+Hampshire,southampton,3,1974,10.6
+Hampshire,southampton,4,1974,15
+Hampshire,southampton,5,1974,16.6
+Hampshire,southampton,6,1974,19.9
+Hampshire,southampton,7,1974,20
+Hampshire,southampton,8,1974,20.5
+Hampshire,southampton,9,1974,17.3
+Hampshire,southampton,10,1974,12.3
+Hampshire,southampton,11,1974,11.3
+Hampshire,southampton,12,1974,11.1
+Hampshire,southampton,1,1975,10.5
+Hampshire,southampton,2,1975,9.7
+Hampshire,southampton,3,1975,9.1
+Hampshire,southampton,4,1975,13.3
+Hampshire,southampton,5,1975,15.9
+Hampshire,southampton,6,1975,22.9
+Hampshire,southampton,7,1975,23.6
+Hampshire,southampton,8,1975,24.5
+Hampshire,southampton,9,1975,19
+Hampshire,southampton,10,1975,15.2
+Hampshire,southampton,11,1975,11.2
+Hampshire,southampton,12,1975,8.3
+Hampshire,southampton,1,1976,9
+Hampshire,southampton,2,1976,7.7
+Hampshire,southampton,3,1976,9.5
+Hampshire,southampton,4,1976,14
+Hampshire,southampton,5,1976,17.6
+Hampshire,southampton,6,1976,23.8
+Hampshire,southampton,7,1976,25.5
+Hampshire,southampton,8,1976,25.4
+Hampshire,southampton,9,1976,18.7
+Hampshire,southampton,10,1976,14.9
+Hampshire,southampton,11,1976,10.6
+Hampshire,southampton,12,1976,6.3
+Hampshire,southampton,1,1977,6.8
+Hampshire,southampton,2,1977,9.6
+Hampshire,southampton,3,1977,10.9
+Hampshire,southampton,4,1977,12
+Hampshire,southampton,5,1977,16.7
+Hampshire,southampton,6,1977,16.9
+Hampshire,southampton,7,1977,22.1
+Hampshire,southampton,8,1977,20.5
+Hampshire,southampton,9,1977,17.7
+Hampshire,southampton,10,1977,16.1
+Hampshire,southampton,11,1977,10.7
+Hampshire,southampton,12,1977,10
+Hampshire,southampton,1,1978,7.6
+Hampshire,southampton,2,1978,6.5
+Hampshire,southampton,3,1978,10.7
+Hampshire,southampton,4,1978,11.1
+Hampshire,southampton,5,1978,17.4
+Hampshire,southampton,6,1978,19
+Hampshire,southampton,7,1978,19.7
+Hampshire,southampton,8,1978,20.3
+Hampshire,southampton,9,1978,19.7
+Hampshire,southampton,10,1978,16.4
+Hampshire,southampton,11,1978,12.7
+Hampshire,southampton,12,1978,8.6
+Hampshire,southampton,1,1979,4.8
+Hampshire,southampton,2,1979,5.5
+Hampshire,southampton,3,1979,8.8
+Hampshire,southampton,4,1979,12.6
+Hampshire,southampton,5,1979,14.8
+Hampshire,southampton,6,1979,18.4
+Hampshire,southampton,7,1979,22.4
+Hampshire,southampton,8,1979,19.5
+Hampshire,southampton,9,1979,18.7
+Hampshire,southampton,10,1979,16.1
+Hampshire,southampton,11,1979,11.4
+Hampshire,southampton,12,1979,9.7
+Hampshire,southampton,1,1980,6.4
+Hampshire,southampton,2,1980,10
+Hampshire,southampton,3,1980,9
+Hampshire,southampton,4,1980,14.4
+Hampshire,southampton,5,1980,17.6
+Hampshire,southampton,6,1980,18.5
+Hampshire,southampton,7,1980,19.2
+Hampshire,southampton,8,1980,21
+Hampshire,southampton,9,1980,19.5
+Hampshire,southampton,10,1980,14
+Hampshire,southampton,11,1980,9.6
+Hampshire,southampton,12,1980,9.5
+Hampshire,southampton,1,1981,8.7
+Hampshire,southampton,2,1981,7.3
+Hampshire,southampton,3,1981,11.3
+Hampshire,southampton,4,1981,13.5
+Hampshire,southampton,5,1981,15.1
+Hampshire,southampton,6,1981,17.9
+Hampshire,southampton,7,1981,21.3
+Hampshire,southampton,8,1981,22.8
+Hampshire,southampton,9,1981,19.8
+Hampshire,southampton,10,1981,13
+Hampshire,southampton,11,1981,11.7
+Hampshire,southampton,12,1981,6
+Hampshire,southampton,1,1982,7.4
+Hampshire,southampton,2,1982,8.5
+Hampshire,southampton,3,1982,10.7
+Hampshire,southampton,4,1982,14.8
+Hampshire,southampton,5,1982,17.3
+Hampshire,southampton,6,1982,20.9
+Hampshire,southampton,7,1982,22.7
+Hampshire,southampton,8,1982,21.1
+Hampshire,southampton,9,1982,20.5
+Hampshire,southampton,10,1982,14.5
+Hampshire,southampton,11,1982,11.9
+Hampshire,southampton,12,1982,8.9
+Hampshire,southampton,1,1983,10.3
+Hampshire,southampton,2,1983,6.1
+Hampshire,southampton,3,1983,10.4
+Hampshire,southampton,4,1983,11.7
+Hampshire,southampton,5,1983,14.6
+Hampshire,southampton,6,1983,20.1
+Hampshire,southampton,7,1983,26.4
+Hampshire,southampton,8,1983,24.5
+Hampshire,southampton,9,1983,18.6
+Hampshire,southampton,10,1983,15.1
+Hampshire,southampton,11,1983,11.7
+Hampshire,southampton,12,1983,9.9
+Hampshire,southampton,1,1984,8.7
+Hampshire,southampton,2,1984,8.1
+Hampshire,southampton,3,1984,9.2
+Hampshire,southampton,4,1984,14.8
+Hampshire,southampton,5,1984,15.6
+Hampshire,southampton,6,1984,21.4
+Hampshire,southampton,7,1984,22.8
+Hampshire,southampton,8,1984,23.1
+Hampshire,southampton,9,1984,18.6
+Hampshire,southampton,10,1984,15.4
+Hampshire,southampton,11,1984,12.1
+Hampshire,southampton,12,1984,9.6
+Hampshire,southampton,1,1985,4.5
+Hampshire,southampton,2,1985,6.4
+Hampshire,southampton,3,1985,9.3
+Hampshire,southampton,4,1985,13.8
+Hampshire,southampton,5,1985,17
+Hampshire,southampton,6,1985,18.4
+Hampshire,southampton,7,1985,21.7
+Hampshire,southampton,8,1985,18.7
+Hampshire,southampton,9,1985,19.7
+Hampshire,southampton,10,1985,15.8
+Hampshire,southampton,11,1985,8.8
+Hampshire,southampton,12,1985,10
+Hampshire,southampton,1,1986,7.9
+Hampshire,southampton,2,1986,2.8
+Hampshire,southampton,3,1986,9
+Hampshire,southampton,4,1986,10.6
+Hampshire,southampton,5,1986,14.6
+Hampshire,southampton,6,1986,21.2
+Hampshire,southampton,7,1986,21.2
+Hampshire,southampton,8,1986,19
+Hampshire,southampton,9,1986,17.5
+Hampshire,southampton,10,1986,16.1
+Hampshire,southampton,11,1986,12.4
+Hampshire,southampton,12,1986,10.1
+Hampshire,southampton,1,1987,4.3
+Hampshire,southampton,2,1987,7.9
+Hampshire,southampton,3,1987,8.7
+Hampshire,southampton,4,1987,14.5
+Hampshire,southampton,5,1987,16.5
+Hampshire,southampton,6,1987,18.1
+Hampshire,southampton,7,1987,21.8
+Hampshire,southampton,8,1987,21.8
+Hampshire,southampton,9,1987,19.7
+Hampshire,southampton,10,1987,15
+Hampshire,southampton,11,1987,10.8
+Hampshire,southampton,12,1987,8.8
+Hampshire,southampton,1,1988,9.1
+Hampshire,southampton,2,1988,9
+Hampshire,southampton,3,1988,10.6
+Hampshire,southampton,4,1988,13.3
+Hampshire,southampton,5,1988,17.8
+Hampshire,southampton,6,1988,20
+Hampshire,southampton,7,1988,18.7
+Hampshire,southampton,8,1988,20.3
+Hampshire,southampton,9,1988,18.7
+Hampshire,southampton,10,1988,15.4
+Hampshire,southampton,11,1988,10.9
+Hampshire,southampton,12,1988,10.6
+Hampshire,southampton,1,1989,9.8
+Hampshire,southampton,2,1989,10.3
+Hampshire,southampton,3,1989,11.9
+Hampshire,southampton,4,1989,11.6
+Hampshire,southampton,5,1989,20.3
+Hampshire,southampton,6,1989,21.1
+Hampshire,southampton,7,1989,25.2
+Hampshire,southampton,8,1989,23.3
+Hampshire,southampton,9,1989,20.7
+Hampshire,southampton,10,1989,16.6
+Hampshire,southampton,11,1989,11.8
+Hampshire,southampton,12,1989,9.6
+Hampshire,southampton,1,1990,10.4
+Hampshire,southampton,2,1990,11.2
+Hampshire,southampton,3,1990,12.7
+Hampshire,southampton,4,1990,14.1
+Hampshire,southampton,5,1990,19.8
+Hampshire,southampton,6,1990,18
+Hampshire,southampton,7,1990,22.8
+Hampshire,southampton,8,1990,24.5
+Hampshire,southampton,9,1990,20.3
+Hampshire,southampton,10,1990,16.3
+Hampshire,southampton,11,1990,11.3
+Hampshire,southampton,12,1990,8.1
+Hampshire,southampton,1,1991,7.5
+Hampshire,southampton,2,1991,5.6
+Hampshire,southampton,3,1991,12.1
+Hampshire,southampton,4,1991,12.7
+Hampshire,southampton,5,1991,16.5
+Hampshire,southampton,6,1991,16.6
+Hampshire,southampton,7,1991,21.5
+Hampshire,southampton,8,1991,23.3
+Hampshire,southampton,9,1991,21.6
+Hampshire,southampton,10,1991,14.5
+Hampshire,southampton,11,1991,10.8
+Hampshire,southampton,12,1991,8.9
+Hampshire,southampton,1,1992,7.7
+Hampshire,southampton,2,1992,9.3
+Hampshire,southampton,3,1992,11.1
+Hampshire,southampton,4,1992,13.2
+Hampshire,southampton,5,1992,19.9
+Hampshire,southampton,6,1992,22.1
+Hampshire,southampton,7,1992,21
+Hampshire,southampton,8,1992,20.3
+Hampshire,southampton,9,1992,18.4
+Hampshire,southampton,10,1992,13.2
+Hampshire,southampton,11,1992,12.2
+Hampshire,southampton,12,1992,8
+Hampshire,southampton,1,1993,10
+Hampshire,southampton,2,1993,7.9
+Hampshire,southampton,3,1993,11.1
+Hampshire,southampton,4,1993,14
+Hampshire,southampton,5,1993,17.8
+Hampshire,southampton,6,1993,20.9
+Hampshire,southampton,7,1993,20.6
+Hampshire,southampton,8,1993,20.9
+Hampshire,southampton,9,1993,17.8
+Hampshire,southampton,10,1993,13.2
+Hampshire,southampton,11,1993,9.6
+Hampshire,southampton,12,1993,9.6
+Hampshire,southampton,1,1994,9.3
+Hampshire,southampton,2,1994,8
+Hampshire,southampton,3,1994,11.9
+Hampshire,southampton,4,1994,12.6
+Hampshire,southampton,5,1994,15.7
+Hampshire,southampton,6,1994,20.1
+Hampshire,southampton,7,1994,24.3
+Hampshire,southampton,8,1994,22.1
+Hampshire,southampton,9,1994,18
+Hampshire,southampton,10,1994,15.9
+Hampshire,southampton,11,1994,13.5
+Hampshire,southampton,12,1994,10.9
+Hampshire,southampton,1,1995,9
+Hampshire,southampton,2,1995,10.6
+Hampshire,southampton,3,1995,10.7
+Hampshire,southampton,4,1995,14.8
+Hampshire,southampton,5,1995,17.9
+Hampshire,southampton,6,1995,21.4
+Hampshire,southampton,7,1995,25.1
+Hampshire,southampton,8,1995,27.1
+Hampshire,southampton,9,1995,19.3
+Hampshire,southampton,10,1995,17.7
+Hampshire,southampton,11,1995,12.5
+Hampshire,southampton,12,1995,6.5
+Hampshire,southampton,1,1996,7.7
+Hampshire,southampton,2,1996,6.9
+Hampshire,southampton,3,1996,9
+Hampshire,southampton,4,1996,13.7
+Hampshire,southampton,5,1996,14.7
+Hampshire,southampton,6,1996,20.6
+Hampshire,southampton,7,1996,22.3
+Hampshire,southampton,8,1996,22.2
+Hampshire,southampton,9,1996,19
+Hampshire,southampton,10,1996,16.2
+Hampshire,southampton,11,1996,10.9
+Hampshire,southampton,12,1996,6.7
+Hampshire,southampton,1,1997,5.5
+Hampshire,southampton,2,1997,10
+Hampshire,southampton,3,1997,12.8
+Hampshire,southampton,4,1997,15.6
+Hampshire,southampton,5,1997,17.6
+Hampshire,southampton,6,1997,19.3
+Hampshire,southampton,7,1997,22.7
+Hampshire,southampton,8,1997,23.8
+Hampshire,southampton,9,1997,20.7
+Hampshire,southampton,10,1997,16.9
+Hampshire,southampton,11,1997,13
+Hampshire,southampton,12,1997,9.9
+Hampshire,southampton,1,1998,9.3
+Hampshire,southampton,2,1998,10.9
+Hampshire,southampton,3,1998,12.2
+Hampshire,southampton,4,1998,12.3
+Hampshire,southampton,5,1998,20.8
+Hampshire,southampton,6,1998,18.7
+Hampshire,southampton,7,1998,20.3
+Hampshire,southampton,8,1998,22.9
+Hampshire,southampton,9,1998,19.9
+Hampshire,southampton,10,1998,15.5
+Hampshire,southampton,11,1998,11
+Hampshire,southampton,12,1998,10
+Hampshire,southampton,1,1999,9.9
+Hampshire,southampton,2,1999,9.5
+Hampshire,southampton,3,1999,12
+Hampshire,southampton,4,1999,14.4
+Hampshire,southampton,5,1999,18.6
+Hampshire,southampton,6,1999,19.4
+Hampshire,southampton,7,1999,24.2
+Hampshire,southampton,8,1999,21.8
+Hampshire,southampton,9,1999,21.2
+Hampshire,southampton,10,1999,16.1
+Hampshire,southampton,11,1999,11.8
+Hampshire,southampton,12,1999,9.3
+Hampshire,southampton,1,2000,9.1
+Hampshire,southampton,2,2000,10.9
+Hampshire,southampton,3,2000,12.5
